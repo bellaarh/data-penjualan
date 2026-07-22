@@ -1,0 +1,1269 @@
+Fees Status,Day,Month,Advertising Channel,Advertisement,Enrolled Courses,Paid Fees,Number of phone calls,Average call duration,Training Models,Training Levels,Location,Sale Team,Consultant
+Paid,9,Oct,Company Website,AD01-9362,4.0,100000.0,1,8:00,Crane,Fndn. L5,Arizona,Mohammed,Kenza
+Paid,4,May,Company Website,AD01-9362,4.0,55000.0,1,11:20,Crane,Pre. L3,Arizona,Mohammed,Kenza
+Paid,3,Nov,Direct Call,AD01-9361,4.0,55000.0,6,2:00,Crane,Fndn. L5,Arizona,Abdullah,Reham
+Paid,12,Jan,Company Website,AD01-9361,2.0,600000.0,1,2:00,Excavator,Fndn. L5,Arizona,Mohammed,Kenza
+Paid,30,Oct,Company Website,AD01-9362,2.0,600000.0,1,3:40,Excavator,Pre. L3,Arizona,Abdullah,Hisham
+Paid,12,Jun,Company Website,AD01-9362,3.0,750000.0,3,10:10,Excavator,Pre. L4,Arizona,Abdullah,Hisham
+Paid,11,Aug,Company Website,AD01-9361,1.0,350000.0,6,12:45,Excavator,Fndn. L5,Arizona,Mohammed,Kenza
+Paid,10,Jan,Facebook Page,AD01-9362,2.0,600000.0,1,2:00,Excavator,KJI. L4,Arizona,Abdullah,Adam
+Paid,30,Nov,Direct Call,AD01-9364,3.0,750000.0,1,2:30,Excavator,Fndn. L5,Arizona,Abdullah,Reham
+Paid,10,Jul,Direct Call,AD01-9361,1.0,350000.0,1,2:30,Excavator,Pre. L2,Arizona,Salah,Dary
+Paid,18,Nov,Direct Call,AD01-9364,5.0,1050000.0,1,2:50,Excavator,KJI. L4,Arizona,Ahmed,Khalil
+Paid,11,Feb,Google Ad,AD01-9362,2.0,500000.0,1,2:00,Excavator,Fndn. L1,Arizona,Salah,John
+Paid,5,Oct,Google Ad,AD01-9361,5.0,1250000.0,2,2:00,Excavator,Pre. L3,Arizona,Abdullah,Reham
+Paid,28,Jul,Google Ad,AD01-9362,2.0,600000.0,1,2:10,Excavator,KJI. L4,Arizona,Abdullah,Reham
+Paid,30,Sep,Google Ad,AD01-9364,2.0,500000.0,1,12:45,Excavator,KJI. L4,Arizona,Ahmed,Hany
+Paid,18,Sep,Direct Call,AD01-9361,4.0,750000.0,2,2:00,Excavator,Fndn. L1,Arizona,Salah,Dina
+Paid,22,Sep,Direct Call,AD01-9362,4.0,750000.0,3,2:00,Excavator,Fndn. L1,Arizona,Mohammed,Rony
+Paid,11,Mar,Direct Call,AD01-9362,4.0,1000000.0,1,2:00,Excavator,Fndn. L5,Arizona,Mohammed,Rony
+Paid,1,Oct,Direct Call,AD01-9364,1.0,350000.0,4,2:00,Excavator,Fndn. L5,Arizona,Mohammed,Rony
+Paid,25,Nov,Direct Call,AD01-9364,5.0,1250000.0,4,2:10,Excavator,KJI. L4,Arizona,Salah,Dary
+Paid,25,Oct,Direct Call,AD01-9362,3.0,750000.0,2,2:50,Excavator,Fndn. L5,Arizona,Mohammed,Mohmed
+Paid,18,Jun,Direct Call,AD01-9364,5.0,1250000.0,5,6:15,Excavator,Fndn. L6,Arizona,Salah,John
+Paid,1,May,Direct Call,AD01-9362,5.0,1250000.0,1,6:18,Excavator,KJI. L4,Arizona,Salah,Dina
+Paid,13,Jan,Direct Call,AD01-9362,4.0,750000.0,5,8:12,Excavator,Fndn. L3,Arizona,Mohammed,Mohmed
+Paid,17,Dec,Direct Call,AD01-9362,2.0,600000.0,2,9:12,Excavator,Pre. L3,Arizona,Mohammed,Mohmed
+Paid,18,Oct,Direct Call,AD01-9362,3.0,750000.0,1,6:15,Excavator,Pre. L3,Arizona,Mohammed,Rony
+Paid,17,Nov,Direct Call,AD01-9363,3.0,750000.0,2,7:14,Excavator,Pre. L8,Arizona,Salah,Ahmed
+Paid,22,Nov,Direct Call,AD01-9361,2.0,190000.0,4,2:00,Truck,Pre. L3,Arizona,Ahmed,Hany
+Paid,27,Dec,Facebook Page,AD01-9362,2.0,190000.0,1,3:40,Truck,KJI. L4,Arizona,Salah,John
+Paid,1,Apr,Direct Call,AD01-9364,1.0,95000.0,1,2:00,Truck,Fndn. L1,Arizona,Salah,Ahmed
+Paid,22,Oct,Direct Call,AD01-9362,2.0,190000.0,6,3:30,Truck,Fndn. L5,Arizona,Salah,Ahmed
+Paid,3,Nov,Direct Call,AD01-9361,4.0,100000.0,6,2:00,Truck,Fndn. L5,Arizona,Abdullah,Reham
+Paid,30,Sep,Google Ad,AD01-9364,2.0,50000.0,1,12:45,Truck,KJI. L4,Arizona,Ahmed,Hany
+Not Paid,3,Jun,Company Website,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Arizona,Mohammed,Kisho
+Not Paid,22,Oct,Direct Call,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Arizona,Mohammed,Rony
+Not Paid,23,Dec,Direct Call,AD01-9362,0.0,0.0,5,3:12,Not Enrolled,Not Enrolled,Arizona,Mohammed,Rony
+Not Paid,5,Oct,Google Ad,AD01-9363,0.0,0.0,4,8:00,Not Enrolled,Not Enrolled,Arizona,Abdullah,Hisham
+Not Paid,12,Jun,Direct Call,AD01-9362,0.0,0.0,2,4:48,Not Enrolled,Not Enrolled,Arizona,Abdullah,Adam
+Not Paid,16,Nov,Direct Call,AD01-9364,0.0,0.0,1,6:18,Not Enrolled,Not Enrolled,Arizona,Abdullah,Reham
+Not Paid,2,Jul,Direct Call,AD01-9361,0.0,0.0,4,8:10,Not Enrolled,Not Enrolled,Arizona,Abdullah,Reham
+Not Paid,30,Dec,Direct Call,AD01-9361,0.0,0.0,2,3:17,Not Enrolled,Not Enrolled,Arizona,Abdullah,Reham
+Not Paid,11,Jan,Youtube Channel,AD01-9362,0.0,0.0,4,2:18,Not Enrolled,Not Enrolled,Arizona,Salah,John
+Paid,4,May,Company Website,AD01-9362,4.0,100000.0,1,11:20,Crane,Pre. L3,California,Mohammed,Kenza
+Paid,17,Nov,Direct Call,AD01-9361,4.0,35000.0,2,2:00,Crane,KJI. L4,California,Salah,Jood
+Paid,19,Oct,Google Ad,AD01-9361,4.0,50000.0,1,2:00,Crane,Pre. L3,California,Salah,Jood
+Paid,1,May,Google Ad,AD01-9361,4.0,100000.0,4,4:48,Crane,Pre. L4,California,Salah,John
+Paid,1,Jun,Direct Call,AD01-9361,4.0,55000.0,4,3:16,Crane,Fndn. L1,California,Ahmed,Hany
+Paid,25,Dec,Direct Call,AD01-9361,4.0,100000.0,1,10:10,Crane,Fndn. L6,California,Ahmed,Hany
+Paid,5,Aug,Direct Call,AD01-9364,4.0,100000.0,3,12:45,Crane,Pre. L2,California,Salah,Ahmed
+Paid,15,Jan,Direct Call,AD01-9362,4.0,55000.0,3,2:25,Crane,Fndn. L3,California,Salah,Sahar
+Paid,11,Feb,Direct Call,AD01-9361,4.0,100000.0,2,3:30,Crane,Fndn. L5,California,Mohammed,Kenza
+Paid,20,Sep,Company Website,AD01-9364,2.0,100000.0,3,2:00,Excavator,Fndn. L5,California,Mohammed,Rony
+Paid,22,Dec,Company Website,AD01-9364,5.0,1250000.0,6,2:00,Excavator,Pre. L3,California,Ahmed,Khalil
+Paid,15,Sep,Company Website,AD01-9361,4.0,750000.0,3,2:00,Excavator,Fndn. L5,California,Salah,Dina
+Paid,15,Nov,Company Website,AD01-9362,2.0,600000.0,2,2:00,Excavator,Fndn. L5,California,Salah,Jood
+Paid,12,Jan,Company Website,AD01-9361,2.0,600000.0,1,2:00,Excavator,Fndn. L5,California,Mohammed,Kenza
+Paid,3,Nov,Company Website,AD01-9362,5.0,1250000.0,3,2:00,Excavator,Fndn. L1,California,Salah,Sahar
+Paid,30,Dec,Company Website,AD01-9361,2.0,600000.0,1,2:00,Excavator,KJI. L4,California,Salah,John
+Paid,29,Oct,Company Website,AD01-9361,3.0,750000.0,3,2:10,Excavator,Pre. L4,California,Ahmed,Hany
+Paid,19,Aug,Company Website,AD01-9363,1.0,350000.0,5,4:45,Excavator,Pre. L8,California,Salah,Dary
+Paid,5,Nov,Company Website,AD01-9364,5.0,1250000.0,2,8:00,Excavator,KJI. L4,California,Ahmed,Khalil
+Paid,27,Oct,Company Website,AD01-9364,5.0,1250000.0,2,8:10,Excavator,Fndn. L1,California,Mohammed,Mohmed
+Paid,21,Oct,Company Website,AD01-9361,1.0,350000.0,2,8:20,Excavator,KJI. L4,California,Mohammed,Habib
+Paid,26,Aug,Company Website,AD01-9362,3.0,750000.0,2,9:00,Excavator,Fndn. L3,California,Salah,John
+Paid,1,Dec,Company Website,AD01-9363,5.0,1250000.0,3,9:12,Excavator,Fndn. L1,California,Abdullah,Hisham
+Paid,29,Aug,Company Website,AD01-9364,5.0,1050000.0,5,9:15,Excavator,KJI. L4,California,Abdullah,Reham
+Paid,1,Oct,Company Website,AD01-9361,2.0,600000.0,2,12:55,Excavator,KJI. L4,California,Mohammed,Kisho
+Paid,3,Dec,Direct Call,AD01-9361,5.0,1000000.0,4,2:00,Excavator,Fndn. L1,California,Mohammed,Mohmed
+Paid,8,Sep,Direct Call,AD01-9364,5.0,1050000.0,4,2:00,Excavator,KJI. L4,California,Salah,Ahmed
+Paid,14,Dec,Direct Call,AD01-9364,1.0,350000.0,1,2:00,Excavator,Fndn. L1,California,Salah,Dary
+Paid,11,Sep,Facebook Page,AD01-9364,2.0,600000.0,5,2:00,Excavator,Pre. L8,California,Salah,Dina
+Paid,2,Dec,Facebook Page,AD01-9364,2.0,600000.0,2,2:00,Excavator,Pre. L3,California,Salah,Sahar
+Paid,10,Dec,Facebook Page,AD01-9361,4.0,1000000.0,1,2:00,Excavator,KJI. L4,California,Ahmed,Hany
+Paid,18,Nov,Direct Call,AD01-9365,5.0,1250000.0,4,2:25,Excavator,KJI. L4,California,Abdullah,Reham
+Paid,1,Dec,Direct Call,AD01-9361,2.0,600000.0,4,2:30,Excavator,KJI. L4,California,Ahmed,Hany
+Paid,10,Jul,Direct Call,AD01-9362,1.0,350000.0,4,3:12,Excavator,KJI. L4,California,Salah,Dary
+Paid,25,Oct,Direct Call,AD01-9364,5.0,1250000.0,2,3:12,Excavator,Fndn. L1,California,Salah,John
+Paid,13,May,Facebook Page,AD01-9362,2.0,600000.0,1,7:14,Excavator,Fndn. L1,California,Mohammed,Kisho
+Paid,6,Sep,Facebook Page,AD01-9362,5.0,1000000.0,2,8:20,Excavator,Fndn. L1,California,Salah,Dary
+Paid,17,Nov,Google Ad,AD01-9361,2.0,600000.0,2,2:00,Excavator,Fndn. L6,California,Mohammed,Mohmed
+Paid,5,Oct,Google Ad,AD01-9361,4.0,750000.0,1,2:00,Excavator,KJI. L4,California,Ahmed,Khalil
+Paid,11,Jan,Google Ad,AD01-9364,5.0,1250000.0,3,2:12,Excavator,Pre. L2,California,Ahmed,Khalil
+Paid,30,Sep,Google Ad,AD01-9364,2.0,600000.0,2,2:12,Excavator,Pre. L2,California,Abdullah,Hisham
+Paid,22,Sep,Google Ad,AD01-9364,3.0,600000.0,2,2:12,Excavator,KJI. L4,California,Abdullah,Reham
+Paid,1,May,Google Ad,AD01-9362,4.0,1000000.0,3,3:12,Excavator,Pre. L3,California,Mohammed,Mohmed
+Paid,28,Jun,Google Ad,AD01-9364,4.0,750000.0,2,3:16,Excavator,Fndn. L5,California,Ahmed,Hany
+Paid,19,Aug,Google Ad,AD01-9362,3.0,750000.0,2,3:40,Excavator,KJI. L4,California,Abdullah,Hisham
+Paid,1,Oct,Google Ad,AD01-9364,3.0,750000.0,1,4:45,Excavator,Fndn. L1,California,Ahmed,Khalil
+Paid,13,Jan,Google Ad,AD01-9362,2.0,600000.0,1,4:48,Excavator,Pre. L3,California,Mohammed,Kisho
+Paid,1,Nov,Google Ad,AD01-9362,3.0,750000.0,3,6:18,Excavator,Fndn. L5,California,Mohammed,Mohmed
+Paid,1,Jun,Google Ad,AD01-9361,2.0,600000.0,1,9:15,Excavator,Fndn. L5,California,Mohammed,Mohmed
+Paid,10,Aug,Direct Call,AD01-9361,3.0,550000.0,1,2:00,Excavator,Pre. L8,California,Mohammed,Kisho
+Paid,11,Sep,Direct Call,AD01-9362,3.0,600000.0,4,2:00,Excavator,Pre. L8,California,Ahmed,Khalil
+Paid,12,Jan,Direct Call,AD01-9362,3.0,550000.0,1,2:00,Excavator,Pre. L3,California,Mohammed,Mohmed
+Paid,2,Oct,Direct Call,AD01-9362,3.0,550000.0,1,2:00,Excavator,Pre. L2,California,Abdullah,Reham
+Paid,11,Feb,Direct Call,AD01-9361,3.0,750000.0,1,2:00,Excavator,Fndn. L1,California,Ahmed,Khalil
+Paid,16,Dec,Direct Call,AD01-9361,3.0,600000.0,3,2:00,Excavator,Fndn. L3,California,Ahmed,Khalil
+Paid,9,Oct,Direct Call,AD01-9364,3.0,750000.0,1,2:00,Excavator,Pre. L2,California,Mohammed,Kisho
+Paid,15,Aug,Direct Call,AD01-9361,3.0,750000.0,2,2:00,Excavator,Pre. L3,California,Salah,Dary
+Paid,8,Oct,Direct Call,AD01-9362,3.0,750000.0,4,2:00,Excavator,Pre. L2,California,Abdullah,Reham
+Paid,15,Feb,Direct Call,AD01-9361,2.0,600000.0,2,3:00,Excavator,Fndn. L5,California,Mohammed,Kisho
+Paid,22,Sep,Direct Call,AD01-9362,5.0,1250000.0,3,3:12,Excavator,KJI. L4,California,Abdullah,Hisham
+Paid,12,Jan,Direct Call,AD01-9361,5.0,1250000.0,1,3:16,Excavator,Pre. L8,California,Mohammed,Mohmed
+Paid,11,Sep,Direct Call,AD01-9361,5.0,1050000.0,5,3:40,Excavator,Pre. L3,California,Mohammed,Habib
+Paid,29,Sep,Direct Call,AD01-9363,1.0,350000.0,4,5:14,Excavator,Fndn. L5,California,Abdullah,Adam
+Paid,12,Sep,Direct Call,AD01-9361,1.0,350000.0,1,6:18,Excavator,Pre. L3,California,Mohammed,Habib
+Paid,29,Dec,Direct Call,AD01-9361,1.0,350000.0,1,7:10,Excavator,Fndn. L3,California,Salah,Dina
+Paid,22,Oct,Direct Call,AD01-9364,2.0,600000.0,2,7:14,Excavator,Fndn. L5,California,Mohammed,Mohmed
+Paid,27,Sep,Direct Call,AD01-9361,1.0,350000.0,1,7:30,Excavator,Fndn. L6,California,Ahmed,Hany
+Paid,5,Oct,Direct Call,AD01-9362,4.0,750000.0,6,7:30,Excavator,Fndn. L6,California,Ahmed,Khalil
+Paid,28,Oct,Direct Call,AD01-9362,5.0,1000000.0,2,9:00,Excavator,Pre. L3,California,Mohammed,Mohmed
+Paid,2,May,Direct Call,AD01-9362,5.0,1250000.0,1,12:45,Excavator,KJI. L4,California,Salah,Jood
+Paid,2,Oct,Direct Call,AD01-9361,3.0,600000.0,1,2:00,Excavator,Fndn. L1,California,Salah,Sahar
+Paid,2,Oct,Direct Call,AD01-9361,3.0,600000.0,1,2:00,Excavator,Fndn. L1,California,Salah,Rony
+Paid,5,May,Direct Call,AD01-9361,1.0,350000.0,2,2:00,Excavator,Pre. L3,California,Mohammed,Mohmed
+Paid,30,Oct,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,KJI. L4,California,Mohammed,Kisho
+Paid,13,Sep,Direct Call,AD01-9362,3.0,600000.0,1,2:00,Excavator,Pre. L2,California,Salah,Dina
+Paid,22,Nov,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,Fndn. L6,California,Salah,Dina
+Paid,11,Jan,Direct Call,AD01-9365,3.0,750000.0,2,2:18,Excavator,KJI. L4,California,Abdullah,Reham
+Paid,7,Oct,Direct Call,AD01-9365,2.0,600000.0,1,2:30,Excavator,Fndn. L3,California,Mohammed,Rony
+Paid,28,Nov,Direct Call,AD01-9361,2.0,600000.0,3,4:45,Excavator,Fndn. L1,California,Salah,Dina
+Paid,9,Sep,Direct Call,AD01-9362,5.0,1250000.0,2,5:14,Excavator,Fndn. L3,California,Salah,John
+Paid,27,Aug,Direct Call,AD01-9361,3.0,750000.0,4,6:30,Excavator,Fndn. L1,California,Salah,John
+Paid,1,May,Direct Call,AD01-9361,2.0,600000.0,5,8:10,Excavator,Fndn. L3,California,Ahmed,Khalil
+Paid,3,Nov,Direct Call,AD01-9364,4.0,1000000.0,1,9:00,Excavator,Fndn. L1,California,Salah,Dary
+Paid,8,Oct,Direct Call,AD01-9362,2.0,600000.0,4,9:12,Excavator,Fndn. L1,California,Abdullah,Reham
+Paid,8,Oct,Direct Call,AD01-9362,2.0,600000.0,2,12:55,Excavator,Fndn. L1,California,Salah,Jood
+Paid,1,Jul,Youtube Channel,AD01-9361,2.0,600000.0,5,2:00,Excavator,Pre. L3,California,Abdullah,Reham
+Paid,22,Nov,Youtube Channel,AD01-9364,2.0,600000.0,2,2:25,Excavator,Pre. L3,California,Mohammed,Kisho
+Paid,17,Aug,Youtube Channel,AD01-9362,2.0,600000.0,4,5:14,Excavator,Fndn. L5,California,Abdullah,Reham
+Paid,16,Sep,Youtube Channel,AD01-9362,3.0,600000.0,2,6:15,Excavator,Fndn. L5,California,Ahmed,Khalil
+Paid,16,Aug,Youtube Channel,AD01-9361,5.0,1000000.0,3,6:30,Excavator,Fndn. L6,California,Salah,Sahar
+Paid,20,Oct,Direct Call,AD01-9361,2.0,1900000.0,1,2:00,Tower Crane,KJI. L4,California,Ahmed,Hany
+Paid,20,Nov,Direct Call,AD01-9362,2.0,1900000.0,4,3:12,Tower Crane,KJI. L4,California,Ahmed,Hany
+Paid,12,Aug,Company Website,AD01-9361,2.0,190000.0,4,2:10,Truck,Fndn. L3,California,Mohammed,Mohmed
+Paid,27,Oct,Facebook Page,AD01-9362,1.0,95000.0,1,2:50,Truck,Fndn. L1,California,Salah,Sahar
+Paid,15,Oct,Facebook Page,AD01-9364,1.0,95000.0,2,7:30,Truck,KJI. L4,California,Abdullah,Hisham
+Paid,26,Oct,Facebook Page,AD01-9362,2.0,190000.0,5,8:00,Truck,Fndn. L5,California,Mohammed,Rony
+Paid,30,Sep,Facebook Page,AD01-9362,1.0,95000.0,5,8:12,Truck,Pre. L3,California,Salah,John
+Paid,3,May,Google Ad,AD01-9362,2.0,190000.0,1,2:00,Truck,KJI. L4,California,Abdullah,Hisham
+Paid,27,Oct,Direct Call,AD01-9362,1.0,95000.0,2,2:00,Truck,Pre. L3,California,Salah,Dary
+Paid,11,Oct,Direct Call,AD01-9363,2.0,190000.0,1,4:45,Truck,KJI. L4,California,Salah,Dary
+Paid,22,Oct,Direct Call,AD01-9361,2.0,190000.0,1,6:20,Truck,Pre. L3,California,Ahmed,Hany
+Paid,25,Oct,Direct Call,AD01-9362,1.0,95000.0,4,7:10,Truck,Pre. L4,California,Ahmed,Khalil
+Paid,6,Oct,Direct Call,AD01-9362,1.0,95000.0,1,2:00,Truck,KJI. L4,California,Ahmed,Khalil
+Paid,11,Feb,Direct Call,AD01-9362,2.0,190000.0,5,2:00,Truck,Fndn. L6,California,Mohammed,Kisho
+Paid,12,Sep,Youtube Channel,AD01-9362,2.0,190000.0,6,2:00,Truck,Fndn. L3,California,Salah,John
+Paid,1,Oct,Company Website,AD01-9361,2.0,60000.0,2,12:55,Truck,KJI. L4,California,Mohammed,Kisho
+Paid,11,Feb,Direct Call,AD01-9362,2.0,19000.0,5,2:00,Truck,Fndn. L6,California,Mohammed,Kisho
+Paid,12,Sep,Youtube Channel,AD01-9362,2.0,19000.0,6,2:00,Truck,Fndn. L3,California,Salah,John
+Paid,17,Nov,Direct Call,AD01-9361,4.0,55000.0,2,2:00,Truck,KJI. L4,California,Salah,Jood
+Paid,19,Oct,Google Ad,AD01-9361,4.0,55000.0,1,2:00,Truck,Pre. L3,California,Salah,Jood
+Paid,1,May,Google Ad,AD01-9361,4.0,100000.0,4,4:48,Truck,Pre. L4,California,Salah,John
+Paid,1,Jun,Direct Call,AD01-9361,4.0,100000.0,4,3:16,Truck,Fndn. L1,California,Ahmed,Hany
+Paid,8,Oct,Direct Call,AD01-9362,2.0,60000.0,2,12:55,Truck,Fndn. L1,California,Salah,Jood
+Paid,15,Jan,Direct Call,AD01-9362,4.0,100000.0,3,2:25,Truck,Fndn. L3,California,Salah,Sahar
+Paid,11,Feb,Direct Call,AD01-9361,4.0,100000.0,2,3:30,Truck,Fndn. L5,California,Mohammed,Kenza
+Not Paid,29,Oct,Company Website,AD01-9364,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,California,Abdullah,Hisham
+Not Paid,9,Oct,Company Website,AD01-9361,0.0,0.0,5,2:12,Not Enrolled,Not Enrolled,California,Abdullah,Hisham
+Not Paid,6,Dec,Company Website,AD01-9362,0.0,0.0,2,2:18,Not Enrolled,Not Enrolled,California,Mohammed,Kenza
+Not Paid,14,Dec,Company Website,AD01-9361,0.0,0.0,4,3:30,Not Enrolled,Not Enrolled,California,Mohammed,Rony
+Not Paid,26,Nov,Company Website,AD01-9361,0.0,0.0,3,4:00,Not Enrolled,Not Enrolled,California,Mohammed,Kisho
+Not Paid,29,May,Company Website,AD01-9364,0.0,0.0,2,5:15,Not Enrolled,Not Enrolled,California,Abdullah,Reham
+Not Paid,25,Nov,Company Website,AD01-9362,0.0,0.0,2,10:10,Not Enrolled,Not Enrolled,California,Mohammed,Mohmed
+Not Paid,5,Oct,Direct Call,AD01-9364,0.0,0.0,5,2:00,Not Enrolled,Not Enrolled,California,Salah,Ahmed
+Not Paid,30,Aug,Direct Call,AD01-9362,0.0,0.0,1,2:12,Not Enrolled,Not Enrolled,California,Salah,Dary
+Not Paid,1,Dec,Google Ad,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,California,Salah,Jood
+Not Paid,21,Nov,Google Ad,AD01-9362,0.0,0.0,2,2:12,Not Enrolled,Not Enrolled,California,Abdullah,Reham
+Not Paid,2,Dec,Google Ad,AD01-9362,0.0,0.0,3,3:17,Not Enrolled,Not Enrolled,California,Salah,Dary
+Not Paid,11,Nov,Google Ad,AD01-9364,0.0,0.0,2,4:48,Not Enrolled,Not Enrolled,California,Salah,Dina
+Not Paid,24,Oct,Google Ad,AD01-9362,0.0,0.0,3,6:30,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,30,Dec,Google Ad,AD01-9364,0.0,0.0,3,8:40,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,13,Jun,Direct Call,AD01-9365,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,California,Mohammed,Kisho
+Not Paid,18,Sep,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,California,Abdullah,Reham
+Not Paid,8,Jun,Direct Call,AD01-9363,0.0,0.0,2,2:12,Not Enrolled,Not Enrolled,California,Salah,John
+Not Paid,11,May,Direct Call,AD01-9361,0.0,0.0,2,2:30,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,28,Nov,Direct Call,AD01-9362,0.0,0.0,2,2:50,Not Enrolled,Not Enrolled,California,Mohammed,Rony
+Not Paid,1,Dec,Direct Call,AD01-9361,0.0,0.0,2,2:56,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,7,Dec,Direct Call,AD01-9364,0.0,0.0,1,3:12,Not Enrolled,Not Enrolled,California,Salah,Sahar
+Not Paid,26,Nov,Direct Call,AD01-9361,0.0,0.0,2,4:00,Not Enrolled,Not Enrolled,California,Mohammed,Kisho
+Not Paid,19,Mar,Direct Call,AD01-9361,0.0,0.0,3,6:30,Not Enrolled,Not Enrolled,California,Ahmed,Khalil
+Not Paid,30,Dec,Direct Call,AD01-9362,0.0,0.0,5,8:40,Not Enrolled,Not Enrolled,California,Abdullah,Reham
+Not Paid,13,Jan,Direct Call,AD01-9363,0.0,0.0,2,9:15,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,21,Sep,Direct Call,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,California,Abdullah,Adam
+Not Paid,24,Oct,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,California,Ahmed,Hany
+Not Paid,29,Dec,Direct Call,AD01-9362,0.0,0.0,3,6:30,Not Enrolled,Not Enrolled,California,Mohammed,Kisho
+Paid,10,Sep,Company Website,AD01-9363,4.0,190000.0,1,2:00,Crane,KJI. L4,New York,Abdullah,Adam
+Paid,1,May,Company Website,AD01-9364,4.0,100000.0,2,2:12,Crane,Fndn. L5,New York,Salah,Dary
+Paid,16,Aug,Company Website,AD01-9361,4.0,35000.0,3,3:00,Crane,Fndn. L5,New York,Salah,Dary
+Paid,10,Oct,Company Website,AD01-9364,4.0,100000.0,2,4:40,Crane,KJI. L4,New York,Mohammed,Habib
+Paid,25,Dec,Direct Call,AD01-9361,4.0,100000.0,4,6:18,Crane,Pre. L3,New York,Salah,Dary
+Paid,31,Oct,Direct Call,AD01-9361,4.0,55000.0,1,6:20,Crane,Fndn. L6,New York,Salah,Dina
+Paid,13,Nov,Google Ad,AD01-9365,4.0,55000.0,3,2:00,Crane,KJI. L4,New York,Abdullah,Reham
+Paid,18,Oct,Google Ad,AD01-9362,4.0,75000.0,2,2:00,Crane,Pre. L4,New York,Ahmed,Khalil
+Paid,11,Dec,Google Ad,AD01-9361,4.0,75000.0,3,2:12,Crane,Pre. L4,New York,Abdullah,Hisham
+Paid,1,May,Direct Call,AD01-9364,4.0,55000.0,4,2:00,Crane,Fndn. L1,New York,Salah,Dina
+Paid,26,Oct,Direct Call,AD01-9361,4.0,125000.0,3,2:00,Crane,KJI. L4,New York,Salah,John
+Paid,27,Aug,Direct Call,AD01-9361,4.0,50000.0,1,2:00,Crane,Pre. L2,New York,Abdullah,Reham
+Paid,27,Aug,Direct Call,AD01-9361,4.0,125000.0,1,2:00,Crane,Pre. L2,New York,Abdullah,Reham
+Paid,2,Nov,Direct Call,AD01-9362,4.0,100000.0,4,2:10,Crane,Pre. L2,New York,Mohammed,Mohmed
+Paid,24,Oct,Direct Call,AD01-9361,4.0,100000.0,2,2:30,Crane,Pre. L2,New York,Abdullah,Reham
+Paid,17,Jun,Direct Call,AD01-9362,4.0,100000.0,1,2:56,Crane,Pre. L8,New York,Salah,Ahmed
+Paid,25,Sep,Direct Call,AD01-9361,4.0,100000.0,2,3:14,Crane,KJI. L4,New York,Salah,John
+Paid,1,Jun,Direct Call,AD01-9361,4.0,55000.0,4,3:16,Crane,Fndn. L1,New York,Ahmed,Hany
+Paid,24,Oct,Direct Call,AD01-9362,4.0,100000.0,1,4:40,Crane,KJI. L4,New York,Ahmed,Khalil
+Paid,10,Oct,Direct Call,AD01-9361,4.0,100000.0,5,6:30,Crane,Fndn. L3,New York,Ahmed,Khalil
+Paid,27,Oct,Direct Call,AD01-9361,4.0,55000.0,5,8:40,Crane,Pre. L3,New York,Mohammed,Mohmed
+Paid,6,Nov,Direct Call,AD01-9362,4.0,100000.0,1,8:40,Crane,Pre. L4,New York,Salah,Ahmed
+Paid,20,Nov,Direct Call,AD01-9362,4.0,100000.0,2,9:00,Crane,Fndn. L1,New York,Mohammed,Rony
+Paid,7,Sep,Direct Call,AD01-9363,4.0,55000.0,5,9:12,Crane,Fndn. L1,New York,Mohammed,Mohmed
+Paid,10,Oct,Direct Call,AD01-9364,4.0,100000.0,5,9:15,Crane,Fndn. L5,New York,Mohammed,Kisho
+Paid,5,Aug,Direct Call,AD01-9364,4.0,100000.0,3,12:45,Crane,Pre. L2,New York,Salah,Ahmed
+Paid,9,Jul,Direct Call,AD01-9362,4.0,75000.0,1,12:55,Crane,KJI. L4,New York,Salah,John
+Paid,1,Apr,Direct Call,AD01-9361,4.0,60000.0,3,2:00,Crane,Fndn. L1,New York,Ahmed,Hany
+Paid,29,Nov,Direct Call,AD01-9365,4.0,100000.0,3,2:50,Crane,Pre. L3,New York,Abdullah,Reham
+Paid,28,Dec,Direct Call,AD01-9364,4.0,100000.0,1,12:55,Crane,Fndn. L5,New York,Ahmed,Khalil
+Paid,30,Sep,Youtube Channel,AD01-9362,4.0,100000.0,5,6:15,Crane,KJI. L4,New York,Ahmed,Khalil
+Paid,20,Oct,Company Website,AD01-9361,5.0,1250000.0,4,2:00,Excavator,Fndn. L3,New York,Salah,John
+Paid,20,Oct,Company Website,AD01-9362,2.0,500000.0,1,2:00,Excavator,Pre. L4,New York,Salah,Ahmed
+Paid,11,Feb,Company Website,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,9,Oct,Company Website,AD01-9362,3.0,750000.0,3,2:00,Excavator,Fndn. L1,New York,Mohammed,Kenza
+Paid,19,Nov,Company Website,AD01-9361,2.0,600000.0,1,2:00,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,1,Apr,Company Website,AD01-9362,5.0,1250000.0,1,2:00,Excavator,Fndn. L1,New York,Salah,Sahar
+Paid,31,Oct,Company Website,AD01-9361,3.0,750000.0,3,2:00,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,2,Aug,Company Website,AD01-9363,2.0,600000.0,2,2:00,Excavator,Pre. L3,New York,Salah,Ahmed
+Paid,11,Nov,Company Website,AD01-9363,5.0,1050000.0,4,2:00,Excavator,KJI. L4,New York,Mohammed,Kisho
+Paid,11,Sep,Company Website,AD01-9362,5.0,1250000.0,5,2:00,Excavator,Fndn. L1,New York,Mohammed,Rony
+Paid,1,Dec,Company Website,AD01-9362,2.0,500000.0,2,2:00,Excavator,Fndn. L1,New York,Abdullah,Hisham
+Paid,6,Nov,Company Website,AD01-9361,3.0,750000.0,1,2:00,Excavator,KJI. L4,New York,Mohammed,Mohmed
+Paid,4,Apr,Company Website,AD01-9362,5.0,1000000.0,1,2:00,Excavator,Fndn. L3,New York,Abdullah,Reham
+Paid,6,May,Company Website,AD01-9365,2.0,600000.0,1,2:00,Excavator,Fndn. L3,New York,Mohammed,Mohmed
+Paid,17,Sep,Company Website,AD01-9362,2.0,600000.0,4,2:00,Excavator,Fndn. L1,New York,Abdullah,Reham
+Paid,8,Oct,Company Website,AD01-9361,1.0,350000.0,1,2:00,Excavator,Pre. L3,New York,Salah,Sahar
+Paid,1,Nov,Company Website,AD01-9363,4.0,1000000.0,1,2:00,Excavator,Pre. L2,New York,Salah,Sahar
+Paid,12,Aug,Company Website,AD01-9362,2.0,500000.0,4,2:12,Excavator,Pre. L8,New York,Ahmed,Khalil
+Paid,11,Nov,Company Website,AD01-9362,3.0,750000.0,1,2:12,Excavator,Fndn. L6,New York,Salah,Sahar
+Paid,1,Nov,Company Website,AD01-9362,4.0,1000000.0,1,2:12,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,11,Nov,Company Website,AD01-9361,4.0,1000000.0,2,2:25,Excavator,Pre. L2,New York,Mohammed,Rony
+Paid,31,Oct,Company Website,AD01-9361,2.0,600000.0,2,2:50,Excavator,Pre. L3,New York,Abdullah,Adam
+Paid,16,Dec,Company Website,AD01-9362,3.0,750000.0,6,2:50,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,13,Oct,Company Website,AD01-9361,2.0,600000.0,2,3:14,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,15,Dec,Company Website,AD01-9362,3.0,750000.0,2,3:14,Excavator,Fndn. L5,New York,Salah,Dina
+Paid,19,Oct,Company Website,AD01-9365,4.0,1000000.0,1,3:30,Excavator,Pre. L3,New York,Mohammed,Habib
+Paid,8,Oct,Company Website,AD01-9364,3.0,750000.0,1,4:00,Excavator,Pre. L2,New York,Salah,Ahmed
+Paid,26,Oct,Company Website,AD01-9362,5.0,1000000.0,2,4:40,Excavator,KJI. L4,New York,Salah,Sahar
+Paid,12,Nov,Company Website,AD01-9362,4.0,1000000.0,2,4:40,Excavator,Fndn. L5,New York,Salah,Dary
+Paid,12,Nov,Company Website,AD01-9362,3.0,750000.0,1,4:48,Excavator,Fndn. L1,New York,Mohammed,Mohmed
+Paid,7,Nov,Company Website,AD01-9362,3.0,750000.0,5,5:15,Excavator,Pre. L3,New York,Mohammed,Rony
+Paid,14,Dec,Company Website,AD01-9364,2.0,600000.0,2,5:15,Excavator,Pre. L8,New York,Mohammed,Rony
+Paid,5,Oct,Company Website,AD01-9361,4.0,1000000.0,4,6:30,Excavator,Pre. L4,New York,Salah,John
+Paid,3,Nov,Company Website,AD01-9362,2.0,600000.0,2,6:30,Excavator,KJI. L4,New York,Salah,John
+Paid,2,Dec,Company Website,AD01-9362,3.0,600000.0,3,6:30,Excavator,Fndn. L1,New York,Mohammed,Rony
+Paid,1,Apr,Company Website,AD01-9361,2.0,600000.0,1,6:30,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,11,Oct,Company Website,AD01-9365,4.0,1000000.0,5,8:40,Excavator,Fndn. L1,New York,Abdullah,Reham
+Paid,1,Jul,Company Website,AD01-9362,5.0,1250000.0,1,9:36,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,11,Nov,Company Website,AD01-9364,2.0,600000.0,1,9:36,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,9,Sep,Company Website,AD01-9361,3.0,750000.0,4,10:10,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,25,Oct,Company Website,AD01-9365,5.0,1000000.0,5,10:10,Excavator,Fndn. L3,New York,Mohammed,Rony
+Paid,29,Oct,Company Website,AD01-9361,2.0,600000.0,2,10:10,Excavator,Pre. L2,New York,Mohammed,Kisho
+Paid,1,Apr,Company Website,AD01-9361,5.0,1250000.0,1,11:20,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,19,Oct,Company Website,AD01-9361,1.0,350000.0,4,11:20,Excavator,Pre. L8,New York,Mohammed,Kenza
+Paid,16,Sep,Company Website,AD01-9361,5.0,1000000.0,5,12:45,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,30,Dec,Company Website,AD01-9362,1.0,350000.0,1,12:55,Excavator,Pre. L3,New York,Salah,Dina
+Paid,29,Nov,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,KJI. L4,New York,Mohammed,Kisho
+Paid,1,May,Direct Call,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Pre. L2,New York,Ahmed,Hany
+Paid,20,Oct,Direct Call,AD01-9363,3.0,750000.0,1,2:00,Excavator,Pre. L4,New York,Abdullah,Reham
+Paid,5,Nov,Direct Call,AD01-9363,3.0,600000.0,2,2:00,Excavator,Pre. L8,New York,Mohammed,Mohmed
+Paid,1,Feb,Direct Call,AD01-9361,1.0,350000.0,2,2:00,Excavator,Pre. L8,New York,Mohammed,Rony
+Paid,11,Feb,Direct Call,AD01-9363,2.0,600000.0,2,2:00,Excavator,Pre. L8,New York,Salah,John
+Paid,25,Aug,Direct Call,AD01-9362,2.0,500000.0,4,2:00,Excavator,Pre. L4,New York,Mohammed,Rony
+Paid,26,Dec,Direct Call,AD01-9361,5.0,1250000.0,2,2:00,Excavator,Fndn. L5,New York,Ahmed,Khalil
+Paid,10,Nov,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,Pre. L2,New York,Salah,Ahmed
+Paid,1,Apr,Facebook Page,AD01-9362,4.0,1000000.0,1,2:00,Excavator,Fndn. L3,New York,Mohammed,Habib
+Paid,12,Jun,Facebook Page,AD01-9363,2.0,600000.0,5,2:00,Excavator,Fndn. L1,New York,Ahmed,Hany
+Paid,10,Jan,Facebook Page,AD01-9362,2.0,600000.0,1,2:00,Excavator,KJI. L4,New York,Abdullah,Adam
+Paid,12,Sep,Facebook Page,AD01-9362,5.0,1250000.0,5,2:00,Excavator,Pre. L3,New York,Salah,John
+Paid,29,Sep,Facebook Page,AD01-9361,4.0,750000.0,3,2:00,Excavator,Pre. L8,New York,Salah,Dary
+Paid,15,Jan,Facebook Page,AD01-9362,2.0,600000.0,1,2:12,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,1,May,Facebook Page,AD01-9361,3.0,750000.0,2,2:12,Excavator,KJI. L4,New York,Mohammed,Mohmed
+Paid,4,Oct,Facebook Page,AD01-9364,5.0,1000000.0,2,2:12,Excavator,Pre. L8,New York,Salah,John
+Paid,20,Oct,Facebook Page,AD01-9361,2.0,600000.0,2,2:12,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,22,Nov,Direct Call,AD01-9362,5.0,1250000.0,2,2:12,Excavator,Fndn. L1,New York,Salah,Sahar
+Paid,15,Jan,Direct Call,AD01-9362,2.0,600000.0,1,2:12,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,8,Oct,Direct Call,AD01-9362,2.0,600000.0,5,2:25,Excavator,Fndn. L6,New York,Mohammed,Mohmed
+Paid,10,Jul,Direct Call,AD01-9361,1.0,350000.0,1,2:30,Excavator,Pre. L2,New York,Salah,Dary
+Paid,28,Oct,Direct Call,AD01-9362,3.0,750000.0,2,2:30,Excavator,Fndn. L6,New York,Salah,Dary
+Paid,22,Oct,Direct Call,AD01-9361,3.0,750000.0,2,3:12,Excavator,Fndn. L5,New York,Abdullah,Reham
+Paid,26,Oct,Direct Call,AD01-9361,1.0,350000.0,2,3:16,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,30,Sep,Direct Call,AD01-9364,4.0,1000000.0,4,3:40,Excavator,Fndn. L6,New York,Mohammed,Kisho
+Paid,23,Sep,Facebook Page,AD01-9364,1.0,350000.0,3,4:00,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,1,May,Facebook Page,AD01-9361,2.0,600000.0,2,4:40,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,11,Sep,Facebook Page,AD01-9362,2.0,600000.0,5,4:40,Excavator,Fndn. L6,New York,Salah,John
+Paid,1,Oct,Facebook Page,AD01-9363,4.0,1000000.0,2,4:40,Excavator,Fndn. L1,New York,Salah,John
+Paid,8,Oct,Facebook Page,AD01-9361,5.0,1250000.0,4,4:40,Excavator,Pre. L8,New York,Abdullah,Hisham
+Paid,22,Nov,Facebook Page,AD01-9362,3.0,750000.0,1,4:40,Excavator,KJI. L4,New York,Salah,John
+Paid,16,Jan,Facebook Page,AD01-9361,2.0,600000.0,1,4:40,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,5,Sep,Facebook Page,AD01-9362,4.0,750000.0,3,4:45,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,1,Nov,Facebook Page,AD01-9364,5.0,1250000.0,2,5:12,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,8,Jan,Facebook Page,AD01-9364,3.0,750000.0,5,5:15,Excavator,Pre. L3,New York,Salah,Dary
+Paid,12,Jun,Facebook Page,AD01-9364,5.0,1250000.0,1,5:15,Excavator,Pre. L4,New York,Mohammed,Mohmed
+Paid,24,Dec,Facebook Page,AD01-9364,5.0,1250000.0,6,6:30,Excavator,Fndn. L3,New York,Salah,Dina
+Paid,1,Apr,Facebook Page,AD01-9362,5.0,1250000.0,2,6:30,Excavator,Pre. L2,New York,Salah,Dary
+Paid,14,Jan,Facebook Page,AD01-9364,5.0,1000000.0,6,7:14,Excavator,Pre. L2,New York,Salah,Dary
+Paid,6,Jan,Facebook Page,AD01-9362,5.0,1000000.0,3,7:30,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,30,Sep,Facebook Page,AD01-9362,1.0,350000.0,2,7:30,Excavator,Fndn. L5,New York,Salah,John
+Paid,30,Oct,Facebook Page,AD01-9364,3.0,750000.0,4,8:00,Excavator,Pre. L8,New York,Salah,John
+Paid,11,Feb,Facebook Page,AD01-9362,4.0,1000000.0,1,8:10,Excavator,Pre. L3,New York,Salah,Dina
+Paid,19,Sep,Facebook Page,AD01-9365,5.0,1000000.0,5,8:12,Excavator,Fndn. L1,New York,Salah,Dary
+Paid,30,Sep,Facebook Page,AD01-9364,2.0,600000.0,2,8:40,Excavator,Pre. L3,New York,Mohammed,Kisho
+Paid,1,Nov,Facebook Page,AD01-9364,2.0,600000.0,1,8:40,Excavator,Fndn. L5,New York,Salah,Dary
+Paid,12,Jan,Facebook Page,AD01-9362,2.0,600000.0,3,9:36,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,8,Oct,Direct Call,AD01-9363,2.0,600000.0,4,9:36,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,12,Jan,Direct Call,AD01-9362,2.0,600000.0,3,9:36,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,7,Sep,Direct Call,AD01-9362,2.0,600000.0,4,10:10,Excavator,Fndn. L1,New York,Salah,Dina
+Paid,13,Feb,Direct Call,AD01-9364,1.0,350000.0,6,12:55,Excavator,Pre. L2,New York,Ahmed,Khalil
+Paid,17,Nov,Google Ad,AD01-9362,1.0,350000.0,1,2:00,Excavator,KJI. L4,New York,Salah,Dary
+Paid,30,Nov,Google Ad,AD01-9361,2.0,500000.0,1,2:00,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,6,Nov,Google Ad,AD01-9365,1.0,350000.0,3,2:00,Excavator,Pre. L4,New York,Ahmed,Hany
+Paid,14,Jan,Google Ad,AD01-9364,3.0,750000.0,2,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,14,Aug,Google Ad,AD01-9361,4.0,1000000.0,3,2:00,Excavator,Fndn. L5,New York,Salah,John
+Paid,13,Dec,Google Ad,AD01-9362,2.0,600000.0,5,2:00,Excavator,KJI. L4,New York,Salah,Dina
+Paid,28,Oct,Google Ad,AD01-9361,1.0,350000.0,3,2:00,Excavator,Fndn. L1,New York,Salah,Dary
+Paid,8,Oct,Google Ad,AD01-9362,2.0,600000.0,3,2:00,Excavator,KJI. L4,New York,Mohammed,Rony
+Paid,29,Sep,Google Ad,AD01-9362,1.0,350000.0,2,2:00,Excavator,Pre. L2,New York,Ahmed,Hany
+Paid,1,Apr,Google Ad,AD01-9362,2.0,600000.0,1,2:00,Excavator,Fndn. L5,New York,Mohammed,Kenza
+Paid,29,Oct,Google Ad,AD01-9361,3.0,750000.0,2,2:00,Excavator,KJI. L4,New York,Abdullah,Adam
+Paid,17,Dec,Google Ad,AD01-9364,1.0,350000.0,5,2:00,Excavator,Pre. L4,New York,Ahmed,Khalil
+Paid,31,Dec,Google Ad,AD01-9362,3.0,600000.0,1,2:00,Excavator,KJI. L4,New York,Salah,Dary
+Paid,26,Sep,Google Ad,AD01-9361,4.0,1000000.0,2,2:10,Excavator,Pre. L3,New York,Salah,John
+Paid,22,Oct,Google Ad,AD01-9362,1.0,350000.0,1,2:12,Excavator,Fndn. L1,New York,Salah,Sahar
+Paid,22,Nov,Google Ad,AD01-9364,2.0,600000.0,1,2:12,Excavator,Pre. L4,New York,Salah,Dina
+Paid,25,Dec,Google Ad,AD01-9362,2.0,600000.0,2,2:12,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,11,Jan,Google Ad,AD01-9364,5.0,1250000.0,3,2:12,Excavator,Pre. L2,New York,Ahmed,Khalil
+Paid,29,Oct,Google Ad,AD01-9361,2.0,600000.0,1,2:56,Excavator,Fndn. L3,New York,Abdullah,Reham
+Paid,20,Oct,Google Ad,AD01-9364,3.0,750000.0,6,3:00,Excavator,KJI. L4,New York,Salah,Ahmed
+Paid,11,Nov,Google Ad,AD01-9362,5.0,1000000.0,4,3:10,Excavator,Pre. L4,New York,Abdullah,Reham
+Paid,25,Oct,Google Ad,AD01-9362,2.0,600000.0,1,3:12,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,17,Jan,Google Ad,AD01-9365,3.0,750000.0,1,3:12,Excavator,Pre. L8,New York,Ahmed,Hany
+Paid,23,Oct,Google Ad,AD01-9362,2.0,500000.0,2,3:16,Excavator,KJI. L4,New York,Salah,Dary
+Paid,12,Nov,Google Ad,AD01-9364,5.0,1250000.0,4,3:16,Excavator,Pre. L8,New York,Mohammed,Rony
+Paid,28,Jun,Google Ad,AD01-9364,4.0,750000.0,2,3:16,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,1,Jan,Google Ad,AD01-9361,1.0,350000.0,3,3:30,Excavator,Fndn. L6,New York,Salah,Sahar
+Paid,22,Sep,Google Ad,AD01-9362,3.0,750000.0,4,4:40,Excavator,Pre. L3,New York,Abdullah,Hisham
+Paid,28,Oct,Google Ad,AD01-9362,1.0,350000.0,4,5:12,Excavator,Fndn. L1,New York,Salah,Dina
+Paid,28,Oct,Google Ad,AD01-9364,1.0,350000.0,5,6:30,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,29,Oct,Google Ad,AD01-9361,2.0,600000.0,3,7:10,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,6,Oct,Google Ad,AD01-9361,5.0,1000000.0,6,7:30,Excavator,Fndn. L5,New York,Salah,Dina
+Paid,9,Oct,Google Ad,AD01-9362,3.0,750000.0,1,7:30,Excavator,Fndn. L5,New York,Ahmed,Khalil
+Paid,1,Jun,Google Ad,AD01-9361,2.0,600000.0,1,9:15,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,28,Oct,Google Ad,AD01-9362,1.0,350000.0,1,9:15,Excavator,Pre. L3,New York,Salah,Ahmed
+Paid,11,Sep,Google Ad,AD01-9365,1.0,350000.0,2,9:36,Excavator,Pre. L3,New York,Ahmed,Hany
+Paid,11,Aug,Google Ad,AD01-9364,1.0,350000.0,3,10:10,Excavator,Pre. L3,New York,Salah,Sahar
+Paid,10,Apr,Google Ad,AD01-9364,3.0,750000.0,1,12:55,Excavator,Pre. L3,New York,Salah,Dina
+Paid,1,Apr,Direct Call,AD01-9364,1.0,350000.0,3,2:00,Excavator,KJI. L4,New York,Salah,Jood
+Paid,1,Oct,Direct Call,AD01-9362,2.0,600000.0,6,2:00,Excavator,Fndn. L1,New York,Salah,Sahar
+Paid,10,Aug,Direct Call,AD01-9365,2.0,600000.0,4,2:00,Excavator,Fndn. L6,New York,Mohammed,Rony
+Paid,23,Sep,Direct Call,AD01-9362,5.0,1000000.0,1,2:00,Excavator,Pre. L2,New York,Abdullah,Hisham
+Paid,8,Oct,Direct Call,AD01-9361,4.0,1000000.0,3,2:00,Excavator,Pre. L4,New York,Abdullah,Reham
+Paid,1,Sep,Direct Call,AD01-9362,1.0,350000.0,4,2:00,Excavator,Fndn. L3,New York,Salah,Dina
+Paid,11,Feb,Direct Call,AD01-9361,3.0,750000.0,1,2:00,Excavator,Fndn. L1,New York,Ahmed,Khalil
+Paid,1,Apr,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,Pre. L3,New York,Abdullah,Adam
+Paid,9,Aug,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,Pre. L2,New York,Salah,John
+Paid,6,Oct,Direct Call,AD01-9361,5.0,1000000.0,1,2:00,Excavator,Fndn. L5,New York,Ahmed,Khalil
+Paid,26,Nov,Direct Call,AD01-9362,5.0,1250000.0,3,2:00,Excavator,Pre. L3,New York,Salah,Ahmed
+Paid,1,Nov,Direct Call,AD01-9362,3.0,750000.0,2,2:00,Excavator,Fndn. L3,New York,Mohammed,Kisho
+Paid,11,Mar,Direct Call,AD01-9362,4.0,1000000.0,1,2:00,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,17,Nov,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,7,Sep,Direct Call,AD01-9361,5.0,1050000.0,5,2:00,Excavator,Pre. L8,New York,Mohammed,Kisho
+Paid,11,Feb,Direct Call,AD01-9361,4.0,1000000.0,1,2:00,Excavator,Pre. L2,New York,Ahmed,Hany
+Paid,13,Jun,Direct Call,AD01-9361,5.0,1050000.0,4,2:00,Excavator,Fndn. L6,New York,Ahmed,Khalil
+Paid,15,Aug,Direct Call,AD01-9361,3.0,750000.0,2,2:00,Excavator,Pre. L3,New York,Salah,Dary
+Paid,23,Sep,Direct Call,AD01-9361,2.0,600000.0,2,2:00,Excavator,Fndn. L1,New York,Abdullah,Reham
+Paid,4,Sep,Direct Call,AD01-9364,3.0,550000.0,2,2:00,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,12,Sep,Direct Call,AD01-9361,2.0,600000.0,1,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,24,Dec,Direct Call,AD01-9365,5.0,1250000.0,2,2:00,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,19,Nov,Direct Call,AD01-9361,3.0,750000.0,5,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,2,Oct,Direct Call,AD01-9361,3.0,750000.0,1,2:00,Excavator,Fndn. L1,New York,Salah,Ahmed
+Paid,11,Feb,Direct Call,AD01-9364,2.0,500000.0,2,2:00,Excavator,Pre. L3,New York,Ahmed,Khalil
+Paid,11,Aug,Direct Call,AD01-9362,3.0,750000.0,4,2:00,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,11,Feb,Direct Call,AD01-9364,2.0,600000.0,3,2:10,Excavator,Pre. L3,New York,Salah,John
+Paid,11,Feb,Direct Call,AD01-9362,1.0,350000.0,1,2:12,Excavator,Fndn. L1,New York,Mohammed,Rony
+Paid,8,Oct,Direct Call,AD01-9363,4.0,1000000.0,3,2:12,Excavator,Fndn. L5,New York,Abdullah,Reham
+Paid,23,Oct,Direct Call,AD01-9362,3.0,750000.0,1,2:12,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,24,Dec,Direct Call,AD01-9364,3.0,750000.0,3,2:12,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,8,Nov,Direct Call,AD01-9364,4.0,1000000.0,1,2:18,Excavator,Pre. L3,New York,Ahmed,Khalil
+Paid,11,Oct,Direct Call,AD01-9361,5.0,1050000.0,1,2:25,Excavator,KJI. L4,New York,Salah,Ahmed
+Paid,15,Oct,Direct Call,AD01-9362,2.0,500000.0,4,2:25,Excavator,Pre. L2,New York,Ahmed,Hany
+Paid,29,Oct,Direct Call,AD01-9362,3.0,750000.0,1,2:25,Excavator,Fndn. L1,New York,Salah,Ahmed
+Paid,27,Sep,Direct Call,AD01-9362,5.0,1050000.0,3,2:30,Excavator,Fndn. L1,New York,Mohammed,Mohmed
+Paid,2,Dec,Direct Call,AD01-9362,2.0,600000.0,1,2:30,Excavator,Pre. L4,New York,Ahmed,Hany
+Paid,11,Feb,Direct Call,AD01-9362,4.0,1000000.0,2,2:50,Excavator,KJI. L4,New York,Salah,John
+Paid,4,Oct,Direct Call,AD01-9365,4.0,1000000.0,3,3:00,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,15,Feb,Direct Call,AD01-9361,2.0,600000.0,2,3:00,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,8,May,Direct Call,AD01-9362,3.0,750000.0,3,3:00,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,17,Aug,Direct Call,AD01-9362,3.0,750000.0,2,3:10,Excavator,Fndn. L1,New York,Mohammed,Habib
+Paid,30,Sep,Direct Call,AD01-9364,1.0,350000.0,2,3:10,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,18,Sep,Direct Call,AD01-9362,2.0,600000.0,2,3:10,Excavator,Fndn. L1,New York,Mohammed,Mohmed
+Paid,8,Oct,Direct Call,AD01-9361,2.0,600000.0,2,3:10,Excavator,Pre. L3,New York,Salah,Ahmed
+Paid,11,Feb,Direct Call,AD01-9362,3.0,750000.0,5,3:12,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,22,Nov,Direct Call,AD01-9363,4.0,1000000.0,5,3:14,Excavator,Fndn. L1,New York,Salah,Dary
+Paid,1,Dec,Direct Call,AD01-9361,5.0,1050000.0,2,3:14,Excavator,Pre. L2,New York,Salah,Ahmed
+Paid,3,Sep,Direct Call,AD01-9364,3.0,600000.0,1,3:16,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,21,Sep,Direct Call,AD01-9363,3.0,750000.0,1,3:17,Excavator,Fndn. L5,New York,Abdullah,Hisham
+Paid,27,Oct,Direct Call,AD01-9361,2.0,600000.0,5,3:17,Excavator,Pre. L8,New York,Salah,Jood
+Paid,30,Nov,Direct Call,AD01-9361,5.0,1000000.0,2,3:17,Excavator,KJI. L4,New York,Ahmed,Khalil
+Paid,20,Nov,Direct Call,AD01-9364,3.0,750000.0,5,3:17,Excavator,Fndn. L5,New York,Salah,John
+Paid,25,Aug,Direct Call,AD01-9364,3.0,750000.0,1,3:30,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,11,Feb,Direct Call,AD01-9365,3.0,750000.0,1,3:40,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,10,Aug,Direct Call,AD01-9361,2.0,600000.0,2,3:40,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,11,Oct,Direct Call,AD01-9362,3.0,750000.0,3,4:40,Excavator,Fndn. L1,New York,Salah,John
+Paid,11,Nov,Direct Call,AD01-9362,3.0,550000.0,1,5:14,Excavator,KJI. L4,New York,Mohammed,Kisho
+Paid,4,Nov,Direct Call,AD01-9361,2.0,600000.0,1,5:14,Excavator,Pre. L8,New York,Ahmed,Khalil
+Paid,7,Oct,Direct Call,AD01-9364,2.0,500000.0,1,6:15,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,11,Oct,Direct Call,AD01-9361,2.0,600000.0,3,6:18,Excavator,Fndn. L6,New York,Ahmed,Khalil
+Paid,29,Oct,Direct Call,AD01-9362,3.0,600000.0,5,6:18,Excavator,Pre. L4,New York,Ahmed,Khalil
+Paid,29,Oct,Direct Call,AD01-9361,2.0,500000.0,1,6:20,Excavator,Fndn. L5,New York,Mohammed,Kisho
+Paid,15,Nov,Direct Call,AD01-9361,2.0,600000.0,3,6:30,Excavator,Fndn. L3,New York,Salah,Dary
+Paid,3,Nov,Direct Call,AD01-9364,2.0,600000.0,3,6:30,Excavator,Fndn. L5,New York,Mohammed,Rony
+Paid,20,Nov,Direct Call,AD01-9362,3.0,750000.0,6,6:30,Excavator,Fndn. L3,New York,Ahmed,Hany
+Paid,31,Oct,Direct Call,AD01-9364,3.0,550000.0,1,7:10,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,22,Nov,Direct Call,AD01-9365,5.0,1250000.0,4,7:14,Excavator,Pre. L8,New York,Mohammed,Mohmed
+Paid,1,Apr,Direct Call,AD01-9363,2.0,600000.0,1,7:30,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,8,Oct,Direct Call,AD01-9361,2.0,600000.0,3,7:30,Excavator,Fndn. L5,New York,Mohammed,Habib
+Paid,5,Nov,Direct Call,AD01-9362,3.0,750000.0,2,7:30,Excavator,Pre. L4,New York,Ahmed,Hany
+Paid,16,Sep,Direct Call,AD01-9362,2.0,600000.0,2,8:00,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,9,Oct,Direct Call,AD01-9362,3.0,750000.0,4,8:10,Excavator,Pre. L3,New York,Ahmed,Hany
+Paid,12,May,Direct Call,AD01-9362,1.0,350000.0,1,8:12,Excavator,Fndn. L1,New York,Abdullah,Hisham
+Paid,21,Oct,Direct Call,AD01-9361,2.0,600000.0,1,8:12,Excavator,Pre. L2,New York,Mohammed,Kenza
+Paid,13,Jan,Direct Call,AD01-9362,4.0,750000.0,5,8:12,Excavator,Fndn. L3,New York,Mohammed,Mohmed
+Paid,24,Dec,Direct Call,AD01-9361,3.0,750000.0,1,8:20,Excavator,Pre. L8,New York,Mohammed,Kisho
+Paid,28,Sep,Direct Call,AD01-9362,2.0,600000.0,2,8:40,Excavator,Fndn. L5,New York,Ahmed,Hany
+Paid,8,Oct,Direct Call,AD01-9362,3.0,750000.0,2,8:40,Excavator,Pre. L8,New York,Mohammed,Kenza
+Paid,10,Nov,Direct Call,AD01-9361,1.0,350000.0,2,8:40,Excavator,Pre. L4,New York,Salah,Ahmed
+Paid,7,Oct,Direct Call,AD01-9362,2.0,600000.0,2,9:00,Excavator,KJI. L4,New York,Salah,John
+Paid,21,Oct,Direct Call,AD01-9365,4.0,1000000.0,2,9:12,Excavator,Fndn. L3,New York,Mohammed,Mohmed
+Paid,3,Nov,Direct Call,AD01-9362,3.0,750000.0,2,9:15,Excavator,Pre. L3,New York,Abdullah,Reham
+Paid,11,Feb,Direct Call,AD01-9362,5.0,1250000.0,1,9:15,Excavator,Fndn. L5,New York,Salah,Sahar
+Paid,13,Aug,Direct Call,AD01-9362,3.0,750000.0,1,10:10,Excavator,Pre. L2,New York,Mohammed,Rony
+Paid,1,Dec,Direct Call,AD01-9362,5.0,1250000.0,3,12:55,Excavator,Pre. L8,New York,Ahmed,Khalil
+Paid,2,Oct,Direct Call,AD01-9361,3.0,600000.0,1,2:00,Excavator,Fndn. L1,New York,Salah,Kisho
+Paid,6,Oct,Direct Call,AD01-9362,5.0,1000000.0,2,2:00,Excavator,KJI. L4,New York,Ahmed,Dary
+Paid,3,Apr,Direct Call,AD01-9362,4.0,750000.0,1,2:00,Excavator,Pre. L3,New York,Salah,Sahar
+Paid,10,May,Direct Call,AD01-9364,4.0,1000000.0,3,2:00,Excavator,Pre. L2,New York,Abdullah,Reham
+Paid,5,May,Direct Call,AD01-9361,1.0,350000.0,2,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,11,Oct,Direct Call,AD01-9362,3.0,750000.0,2,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,16,Jan,Direct Call,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Pre. L2,New York,Mohammed,Rony
+Paid,11,May,Direct Call,AD01-9361,5.0,1250000.0,4,2:00,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,12,Jul,Direct Call,AD01-9361,2.0,600000.0,4,2:00,Excavator,Fndn. L3,New York,Abdullah,Reham
+Paid,11,Sep,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,29,Oct,Direct Call,AD01-9364,5.0,1250000.0,6,2:00,Excavator,KJI. L4,New York,Salah,Jood
+Paid,30,Nov,Direct Call,AD01-9361,5.0,1050000.0,3,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,30,Oct,Direct Call,AD01-9362,3.0,750000.0,2,2:00,Excavator,Fndn. L6,New York,Mohammed,Kisho
+Paid,3,Nov,Direct Call,AD01-9363,5.0,1250000.0,2,2:00,Excavator,Pre. L4,New York,Salah,Dary
+Paid,11,Feb,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,KJI. L4,New York,Salah,Dary
+Paid,11,Sep,Direct Call,AD01-9361,3.0,750000.0,3,2:00,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,9,Sep,Direct Call,AD01-9365,5.0,1050000.0,1,2:00,Excavator,Fndn. L3,New York,Mohammed,Mohmed
+Paid,15,Nov,Direct Call,AD01-9364,4.0,750000.0,1,2:00,Excavator,Pre. L3,New York,Mohammed,Mohmed
+Paid,11,Aug,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,Pre. L8,New York,Mohammed,Kisho
+Paid,30,Oct,Direct Call,AD01-9361,3.0,750000.0,2,2:12,Excavator,Pre. L3,New York,Mohammed,Kisho
+Paid,8,Oct,Direct Call,AD01-9364,5.0,1250000.0,3,2:25,Excavator,Fndn. L1,New York,Mohammed,Mohmed
+Paid,10,Nov,Direct Call,AD01-9361,1.0,350000.0,6,2:25,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,8,Oct,Direct Call,AD01-9362,3.0,750000.0,1,2:30,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,5,Nov,Direct Call,AD01-9364,2.0,600000.0,3,2:30,Excavator,KJI. L4,New York,Salah,Dary
+Paid,11,Jan,Direct Call,AD01-9362,5.0,1000000.0,1,2:30,Excavator,Fndn. L5,New York,Abdullah,Reham
+Paid,22,Nov,Direct Call,AD01-9362,3.0,750000.0,6,3:00,Excavator,Pre. L8,New York,Salah,Ahmed
+Paid,27,Sep,Direct Call,AD01-9362,3.0,550000.0,4,3:10,Excavator,Pre. L3,New York,Salah,Dary
+Paid,1,Oct,Direct Call,AD01-9365,3.0,550000.0,3,3:16,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,4,Nov,Direct Call,AD01-9361,1.0,350000.0,2,3:17,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,13,Jul,Direct Call,AD01-9361,3.0,750000.0,5,3:40,Excavator,Pre. L2,New York,Abdullah,Hisham
+Paid,16,Nov,Direct Call,AD01-9365,5.0,1250000.0,1,3:40,Excavator,Fndn. L5,New York,Mohammed,Mohmed
+Paid,11,Oct,Direct Call,AD01-9362,3.0,750000.0,1,4:40,Excavator,Fndn. L3,New York,Salah,Sahar
+Paid,1,Oct,Direct Call,AD01-9364,3.0,750000.0,5,5:14,Excavator,Fndn. L5,New York,Salah,Dary
+Paid,28,Sep,Direct Call,AD01-9364,2.0,600000.0,2,6:15,Excavator,Fndn. L3,New York,Salah,Dary
+Paid,31,Oct,Direct Call,AD01-9362,3.0,750000.0,1,6:18,Excavator,Fndn. L3,New York,Mohammed,Rony
+Paid,17,Feb,Direct Call,AD01-9362,4.0,750000.0,2,6:20,Excavator,Pre. L4,New York,Abdullah,Hisham
+Paid,31,Oct,Direct Call,AD01-9362,5.0,1050000.0,5,6:30,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,7,Oct,Direct Call,AD01-9362,2.0,600000.0,3,7:30,Excavator,Pre. L3,New York,Salah,John
+Paid,29,Nov,Direct Call,AD01-9362,3.0,750000.0,4,7:30,Excavator,KJI. L4,New York,Salah,John
+Paid,16,Feb,Direct Call,AD01-9361,3.0,550000.0,3,8:00,Excavator,Pre. L8,New York,Salah,Sahar
+Paid,23,Dec,Direct Call,AD01-9362,5.0,1050000.0,1,8:10,Excavator,Pre. L4,New York,Salah,Sahar
+Paid,1,Dec,Direct Call,AD01-9362,3.0,600000.0,4,8:12,Excavator,KJI. L4,New York,Abdullah,Reham
+Paid,29,Nov,Direct Call,AD01-9364,2.0,600000.0,2,8:20,Excavator,Fndn. L1,New York,Salah,Dary
+Paid,28,Sep,Direct Call,AD01-9361,3.0,750000.0,2,8:40,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,29,Oct,Direct Call,AD01-9362,2.0,600000.0,2,8:40,Excavator,Fndn. L3,New York,Salah,Sahar
+Paid,7,Oct,Direct Call,AD01-9364,2.0,600000.0,7,8:40,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,13,Nov,Direct Call,AD01-9361,4.0,1000000.0,5,9:15,Excavator,Pre. L8,New York,Mohammed,Rony
+Paid,1,Jul,Youtube Channel,AD01-9361,2.0,600000.0,5,2:00,Excavator,Pre. L3,New York,Abdullah,Reham
+Paid,4,May,Youtube Channel,AD01-9364,3.0,750000.0,1,2:00,Excavator,Fndn. L3,New York,Mohammed,Rony
+Paid,16,Nov,Youtube Channel,AD01-9361,2.0,600000.0,3,2:00,Excavator,Fndn. L6,New York,Ahmed,Khalil
+Paid,26,Aug,Youtube Channel,AD01-9364,3.0,750000.0,1,2:00,Excavator,Pre. L4,New York,Mohammed,Rony
+Paid,30,Sep,Youtube Channel,AD01-9362,2.0,600000.0,5,2:10,Excavator,Fndn. L1,New York,Mohammed,Mohmed
+Paid,14,Sep,Youtube Channel,AD01-9362,1.0,350000.0,1,2:10,Excavator,Pre. L2,New York,Mohammed,Rony
+Paid,30,Sep,Youtube Channel,AD01-9364,3.0,750000.0,4,2:56,Excavator,Fndn. L1,New York,Ahmed,Hany
+Paid,21,Oct,Youtube Channel,AD01-9362,2.0,600000.0,4,3:00,Excavator,Pre. L3,New York,Salah,Sahar
+Paid,28,Oct,Youtube Channel,AD01-9361,1.0,350000.0,2,3:12,Excavator,Pre. L8,New York,Mohammed,Kisho
+Paid,17,Sep,Youtube Channel,AD01-9364,3.0,550000.0,4,3:30,Excavator,KJI. L4,New York,Ahmed,Hany
+Paid,16,Dec,Youtube Channel,AD01-9361,5.0,1250000.0,2,4:48,Excavator,KJI. L4,New York,Abdullah,Hisham
+Paid,1,May,Youtube Channel,AD01-9362,2.0,600000.0,3,5:14,Excavator,KJI. L4,New York,Mohammed,Kisho
+Paid,22,Nov,Youtube Channel,AD01-9362,3.0,750000.0,4,6:30,Excavator,KJI. L4,New York,Salah,Dina
+Paid,30,Nov,Youtube Channel,AD01-9362,1.0,350000.0,3,6:30,Excavator,KJI. L4,New York,Mohammed,Rony
+Paid,28,Dec,Youtube Channel,AD01-9362,4.0,1000000.0,2,6:30,Excavator,Fndn. L1,New York,Mohammed,Rony
+Paid,1,May,Youtube Channel,AD01-9362,3.0,750000.0,1,7:30,Excavator,Pre. L3,New York,Salah,Dina
+Paid,13,Sep,Youtube Channel,AD01-9361,2.0,500000.0,2,8:00,Excavator,KJI. L4,New York,Salah,Sahar
+Paid,22,Nov,Youtube Channel,AD01-9362,3.0,750000.0,1,8:10,Excavator,Fndn. L5,New York,Ahmed,Khalil
+Paid,6,Sep,Youtube Channel,AD01-9361,3.0,750000.0,4,8:40,Excavator,Fndn. L1,New York,Mohammed,Kisho
+Paid,15,Nov,Youtube Channel,AD01-9361,2.0,600000.0,3,9:00,Excavator,Pre. L4,New York,Salah,Ahmed
+Paid,11,Sep,Direct Call,AD01-9364,2.0,1900000.0,1,4:00,Tower Crane,Fndn. L1,New York,Mohammed,Habib
+Paid,10,May,Direct Call,AD01-9364,2.0,1900000.0,2,7:30,Tower Crane,Pre. L2,New York,Mohammed,Mohmed
+Paid,12,Jun,Company Website,AD01-9361,2.0,190000.0,3,2:00,Truck,Fndn. L1,New York,Salah,Dary
+Paid,20,Jul,Company Website,AD01-9362,1.0,95000.0,5,2:00,Truck,Fndn. L5,New York,Ahmed,Hany
+Paid,12,Aug,Company Website,AD01-9361,2.0,190000.0,4,2:10,Truck,Fndn. L3,New York,Mohammed,Mohmed
+Paid,8,Oct,Company Website,AD01-9364,1.0,95000.0,2,2:56,Truck,Pre. L2,New York,Salah,Dary
+Paid,8,Oct,Company Website,AD01-9361,1.0,95000.0,3,6:30,Truck,Fndn. L5,New York,Mohammed,Rony
+Paid,4,Nov,Company Website,AD01-9361,2.0,190000.0,4,6:30,Truck,Pre. L4,New York,Mohammed,Rony
+Paid,15,Nov,Company Website,AD01-9363,1.0,95000.0,7,6:30,Truck,Pre. L2,New York,Abdullah,Reham
+Paid,16,Nov,Company Website,AD01-9361,1.0,95000.0,1,7:30,Truck,KJI. L4,New York,Mohammed,Rony
+Paid,11,Feb,Company Website,AD01-9364,2.0,190000.0,2,8:12,Truck,KJI. L4,New York,Salah,Dina
+Paid,30,Aug,Company Website,AD01-9364,2.0,190000.0,2,8:40,Truck,Pre. L3,New York,Mohammed,Rony
+Paid,8,Oct,Company Website,AD01-9362,1.0,95000.0,4,12:45,Truck,KJI. L4,New York,Ahmed,Hany
+Paid,17,Jan,Company Website,AD01-9362,2.0,190000.0,4,12:45,Truck,Fndn. L5,New York,Mohammed,Rony
+Paid,3,Nov,Direct Call,AD01-9364,1.0,95000.0,3,2:00,Truck,Pre. L4,New York,Salah,Dary
+Paid,22,Nov,Direct Call,AD01-9364,1.0,95000.0,1,2:00,Truck,Pre. L8,New York,Ahmed,Hany
+Paid,3,Oct,Direct Call,AD01-9362,2.0,190000.0,2,2:00,Truck,KJI. L4,New York,Mohammed,Rony
+Paid,22,Nov,Direct Call,AD01-9362,1.0,95000.0,5,2:00,Truck,Fndn. L5,New York,Salah,Dary
+Paid,13,Sep,Direct Call,AD01-9365,1.0,95000.0,6,2:00,Truck,Fndn. L3,New York,Salah,Dina
+Paid,12,Feb,Direct Call,AD01-9364,1.0,95000.0,5,2:00,Truck,Fndn. L3,New York,Ahmed,Hany
+Paid,30,Sep,Facebook Page,AD01-9362,2.0,190000.0,1,2:00,Truck,Fndn. L1,New York,Abdullah,Reham
+Paid,22,Nov,Facebook Page,AD01-9362,2.0,190000.0,3,2:12,Truck,Pre. L4,New York,Salah,Dina
+Paid,3,Nov,Facebook Page,AD01-9361,1.0,95000.0,3,2:12,Truck,Fndn. L5,New York,Mohammed,Rony
+Paid,13,Dec,Facebook Page,AD01-9362,1.0,95000.0,3,2:18,Truck,KJI. L4,New York,Ahmed,Khalil
+Paid,10,Sep,Facebook Page,AD01-9362,1.0,95000.0,3,2:25,Truck,Pre. L3,New York,Mohammed,Mohmed
+Paid,22,Sep,Facebook Page,AD01-9362,1.0,95000.0,2,2:30,Truck,Fndn. L1,New York,Ahmed,Hany
+Paid,12,Sep,Facebook Page,AD01-9363,2.0,190000.0,1,2:50,Truck,Pre. L3,New York,Mohammed,Kenza
+Paid,9,Sep,Facebook Page,AD01-9361,2.0,190000.0,5,4:40,Truck,KJI. L4,New York,Mohammed,Rony
+Paid,22,Nov,Facebook Page,AD01-9362,1.0,95000.0,1,4:40,Truck,Pre. L4,New York,Mohammed,Rony
+Paid,11,Oct,Facebook Page,AD01-9362,2.0,190000.0,3,5:14,Truck,Fndn. L1,New York,Salah,Sahar
+Paid,31,Dec,Facebook Page,AD01-9361,1.0,95000.0,3,6:15,Truck,Pre. L8,New York,Salah,Dary
+Paid,28,Aug,Facebook Page,AD01-9362,2.0,190000.0,5,7:14,Truck,Pre. L3,New York,Salah,Sahar
+Paid,13,Dec,Facebook Page,AD01-9362,1.0,95000.0,2,8:40,Truck,KJI. L4,New York,Salah,Sahar
+Paid,11,Jan,Facebook Page,AD01-9361,2.0,190000.0,1,9:15,Truck,Fndn. L5,New York,Ahmed,Hany
+Paid,6,Jul,Google Ad,AD01-9362,2.0,190000.0,1,2:12,Truck,Fndn. L5,New York,Salah,Dina
+Paid,2,Nov,Google Ad,AD01-9365,2.0,190000.0,1,7:10,Truck,KJI. L4,New York,Abdullah,Reham
+Paid,11,May,Direct Call,AD01-9361,1.0,95000.0,1,2:00,Truck,KJI. L4,New York,Abdullah,Reham
+Paid,31,Aug,Direct Call,AD01-9361,1.0,95000.0,3,2:00,Truck,Pre. L3,New York,Mohammed,Mohmed
+Paid,15,Dec,Direct Call,AD01-9361,2.0,190000.0,1,2:00,Truck,Fndn. L5,New York,Mohammed,Kenza
+Paid,11,Oct,Direct Call,AD01-9361,2.0,190000.0,2,5:12,Truck,Pre. L8,New York,Ahmed,Hany
+Paid,13,Dec,Direct Call,AD01-9363,2.0,190000.0,2,5:15,Truck,Fndn. L1,New York,Ahmed,Hany
+Paid,26,Oct,Direct Call,AD01-9364,2.0,190000.0,4,6:30,Truck,KJI. L4,New York,Ahmed,Hany
+Paid,11,Jan,Direct Call,AD01-9362,2.0,190000.0,4,7:30,Truck,Pre. L2,New York,Ahmed,Hany
+Paid,21,Dec,Direct Call,AD01-9362,1.0,95000.0,2,8:20,Truck,Pre. L3,New York,Salah,Ahmed
+Paid,25,Oct,Direct Call,AD01-9364,1.0,95000.0,3,9:15,Truck,Pre. L8,New York,Mohammed,Kisho
+Paid,12,Oct,Direct Call,AD01-9362,2.0,190000.0,3,9:36,Truck,Pre. L3,New York,Mohammed,Mohmed
+Paid,21,Sep,Direct Call,AD01-9361,2.0,190000.0,3,12:55,Truck,Fndn. L1,New York,Mohammed,Mohmed
+Paid,30,Sep,Direct Call,AD01-9361,1.0,95000.0,4,2:00,Truck,Fndn. L5,New York,Salah,Jood
+Paid,1,May,Direct Call,AD01-9362,2.0,190000.0,2,2:25,Truck,Pre. L8,New York,Abdullah,Adam
+Paid,21,Oct,Direct Call,AD01-9364,2.0,190000.0,3,2:30,Truck,Fndn. L3,New York,Abdullah,Reham
+Paid,4,May,Direct Call,AD01-9362,1.0,95000.0,1,3:10,Truck,Pre. L3,New York,Abdullah,Adam
+Paid,30,Dec,Direct Call,AD01-9361,1.0,95000.0,2,12:55,Truck,Fndn. L5,New York,Mohammed,Habib
+Paid,11,Feb,Youtube Channel,AD01-9364,2.0,190000.0,3,2:00,Truck,Fndn. L1,New York,Salah,Dary
+Paid,16,Sep,Company Website,AD01-9361,5.0,100000.0,5,12:45,Truck,KJI. L4,New York,Abdullah,Hisham
+Paid,30,Dec,Company Website,AD01-9362,1.0,35000.0,1,12:55,Truck,Pre. L3,New York,Salah,Dina
+Paid,10,Sep,Company Website,AD01-9363,4.0,55000.0,1,2:00,Truck,KJI. L4,New York,Abdullah,Adam
+Paid,1,May,Company Website,AD01-9364,4.0,100000.0,2,2:12,Truck,Fndn. L5,New York,Salah,Dary
+Paid,16,Aug,Company Website,AD01-9361,4.0,55000.0,3,3:00,Truck,Fndn. L5,New York,Salah,Dary
+Paid,10,Oct,Company Website,AD01-9364,4.0,55000.0,2,4:40,Truck,KJI. L4,New York,Mohammed,Habib
+Paid,30,Sep,Direct Call,AD01-9361,1.0,9500.0,4,2:00,Truck,Fndn. L5,New York,Salah,Jood
+Paid,1,May,Direct Call,AD01-9362,2.0,19000.0,2,2:25,Truck,Pre. L8,New York,Abdullah,Adam
+Paid,21,Oct,Direct Call,AD01-9364,2.0,19000.0,3,2:30,Truck,Fndn. L3,New York,Abdullah,Reham
+Paid,4,May,Direct Call,AD01-9362,1.0,9500.0,1,3:10,Truck,Pre. L3,New York,Abdullah,Adam
+Paid,30,Dec,Direct Call,AD01-9361,1.0,9500.0,2,12:55,Truck,Fndn. L5,New York,Mohammed,Habib
+Paid,11,Feb,Youtube Channel,AD01-9364,2.0,19000.0,3,2:00,Truck,Fndn. L1,New York,Salah,Dary
+Paid,13,Feb,Direct Call,AD01-9364,1.0,35000.0,6,12:55,Truck,Pre. L2,New York,Ahmed,Khalil
+Paid,25,Dec,Facebook Page,AD01-9361,4.0,100000.0,4,6:18,Truck,Pre. L3,New York,Salah,Dary
+Paid,31,Oct,Facebook Page,AD01-9361,4.0,100000.0,1,6:20,Truck,Fndn. L6,New York,Salah,Dina
+Paid,10,Apr,Google Ad,AD01-9364,3.0,75000.0,1,12:55,Truck,Pre. L3,New York,Salah,Dina
+Paid,13,Nov,Google Ad,AD01-9365,4.0,100000.0,3,2:00,Truck,KJI. L4,New York,Abdullah,Reham
+Paid,18,Oct,Google Ad,AD01-9362,4.0,55000.0,2,2:00,Truck,Pre. L4,New York,Ahmed,Khalil
+Paid,11,Dec,Google Ad,AD01-9361,4.0,100000.0,3,2:12,Truck,Pre. L4,New York,Abdullah,Hisham
+Paid,1,Dec,Direct Call,AD01-9362,5.0,125000.0,3,12:55,Truck,Pre. L8,New York,Ahmed,Khalil
+Paid,1,May,Direct Call,AD01-9364,4.0,100000.0,4,2:00,Truck,Fndn. L1,New York,Salah,Dina
+Paid,26,Oct,Direct Call,AD01-9361,4.0,100000.0,3,2:00,Truck,KJI. L4,New York,Salah,John
+Paid,27,Aug,Direct Call,AD01-9361,4.0,55000.0,1,2:00,Truck,Pre. L2,New York,Abdullah,Reham
+Paid,2,Nov,Direct Call,AD01-9362,4.0,100000.0,4,2:10,Truck,Pre. L2,New York,Mohammed,Mohmed
+Paid,24,Oct,Direct Call,AD01-9361,4.0,100000.0,2,2:30,Truck,Pre. L2,New York,Abdullah,Reham
+Paid,17,Jun,Direct Call,AD01-9362,4.0,100000.0,1,2:56,Truck,Pre. L8,New York,Salah,Ahmed
+Paid,25,Sep,Direct Call,AD01-9361,4.0,100000.0,2,3:14,Truck,KJI. L4,New York,Salah,John
+Paid,1,Jun,Direct Call,AD01-9361,4.0,100000.0,4,3:16,Truck,Fndn. L1,New York,Ahmed,Hany
+Paid,24,Oct,Direct Call,AD01-9362,4.0,100000.0,1,4:40,Truck,KJI. L4,New York,Ahmed,Khalil
+Paid,10,Oct,Direct Call,AD01-9361,4.0,55000.0,5,6:30,Truck,Fndn. L3,New York,Ahmed,Khalil
+Paid,1,Apr,Direct Call,AD01-9361,4.0,100000.0,3,2:00,Truck,Fndn. L1,New York,Ahmed,Hany
+Paid,29,Nov,Direct Call,AD01-9365,4.0,55000.0,3,2:50,Truck,Pre. L3,New York,Abdullah,Reham
+Paid,30,Sep,Youtube Channel,AD01-9362,4.0,100000.0,5,6:15,Truck,KJI. L4,New York,Ahmed,Khalil
+Not Paid,12,Jun,Company Website,AD01-9364,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,5,Oct,Company Website,AD01-9361,0.0,0.0,5,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,30,Dec,Company Website,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,8,Jul,Company Website,AD01-9364,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,26,Nov,Company Website,AD01-9361,0.0,0.0,6,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,11,Oct,Company Website,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,30,Dec,Company Website,AD01-9363,0.0,0.0,5,2:00,Not Enrolled,Not Enrolled,New York,Salah,Ahmed
+Not Paid,30,Dec,Company Website,AD01-9362,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,30,May,Company Website,AD01-9362,0.0,0.0,3,2:18,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,10,Oct,Company Website,AD01-9362,0.0,0.0,3,3:00,Not Enrolled,Not Enrolled,New York,Salah,Ahmed
+Not Paid,16,Mar,Company Website,AD01-9364,0.0,0.0,5,3:12,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,10,Dec,Company Website,AD01-9362,0.0,0.0,4,3:14,Not Enrolled,Not Enrolled,New York,Salah,Ahmed
+Not Paid,17,Sep,Company Website,AD01-9364,0.0,0.0,2,3:16,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,5,Oct,Company Website,AD01-9361,0.0,0.0,1,3:17,Not Enrolled,Not Enrolled,New York,Mohammed,Kenza
+Not Paid,14,Aug,Company Website,AD01-9362,0.0,0.0,4,4:40,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,5,Dec,Company Website,AD01-9362,0.0,0.0,5,5:15,Not Enrolled,Not Enrolled,New York,Mohammed,Habib
+Not Paid,7,Jul,Company Website,AD01-9364,0.0,0.0,3,7:30,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,14,Dec,Company Website,AD01-9362,0.0,0.0,4,9:12,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,29,Sep,Company Website,AD01-9361,0.0,0.0,2,9:15,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,11,Mar,Facebook Page,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Dina
+Not Paid,14,Dec,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,9,Oct,Direct Call,AD01-9365,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,21,Oct,Direct Call,AD01-9362,0.0,0.0,3,2:25,Not Enrolled,Not Enrolled,New York,Salah,Dina
+Not Paid,23,Sep,Direct Call,AD01-9362,0.0,0.0,1,3:40,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,3,Jan,Facebook Page,AD01-9361,0.0,0.0,1,5:12,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,20,Nov,Facebook Page,AD01-9363,0.0,0.0,3,5:12,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,29,Nov,Direct Call,AD01-9361,0.0,0.0,2,5:12,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,3,Jan,Direct Call,AD01-9361,0.0,0.0,1,5:12,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,7,Oct,Direct Call,AD01-9361,0.0,0.0,1,6:18,Not Enrolled,Not Enrolled,New York,Salah,John
+Not Paid,11,Dec,Direct Call,AD01-9361,0.0,0.0,2,6:18,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,13,Sep,Direct Call,AD01-9361,0.0,0.0,1,6:20,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,19,Nov,Direct Call,AD01-9364,0.0,0.0,2,6:20,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,1,Sep,Direct Call,AD01-9362,0.0,0.0,4,7:30,Not Enrolled,Not Enrolled,New York,Salah,John
+Not Paid,12,Sep,Direct Call,AD01-9362,0.0,0.0,3,8:00,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,10,Nov,Direct Call,AD01-9361,0.0,0.0,5,9:36,Not Enrolled,Not Enrolled,New York,Salah,John
+Not Paid,11,Nov,Direct Call,AD01-9365,0.0,0.0,2,10:10,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,11,Feb,Direct Call,AD01-9361,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,18,Nov,Direct Call,AD01-9361,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,10,Dec,Google Ad,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,19,Nov,Google Ad,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,15,Nov,Google Ad,AD01-9361,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,2,Sep,Google Ad,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,30,Dec,Google Ad,AD01-9362,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,20,Sep,Google Ad,AD01-9361,0.0,0.0,1,2:25,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,23,Oct,Google Ad,AD01-9362,0.0,0.0,3,2:25,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,11,Nov,Google Ad,AD01-9361,0.0,0.0,3,2:50,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,22,Nov,Google Ad,AD01-9361,0.0,0.0,1,3:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,14,Oct,Google Ad,AD01-9362,0.0,0.0,4,3:17,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,12,Aug,Google Ad,AD01-9362,0.0,0.0,1,5:14,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,10,Oct,Google Ad,AD01-9361,0.0,0.0,6,6:30,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,15,Nov,Google Ad,AD01-9362,0.0,0.0,4,7:10,Not Enrolled,Not Enrolled,New York,Salah,Ahmed
+Not Paid,13,Mar,Google Ad,AD01-9362,0.0,0.0,2,7:14,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,30,Dec,Google Ad,AD01-9364,0.0,0.0,7,7:30,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,10,Dec,Google Ad,AD01-9362,0.0,0.0,2,11:20,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,14,Apr,Direct Call,AD01-9361,0.0,0.0,5,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,1,May,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,18,Dec,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,14,Oct,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,13,Nov,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,26,Nov,Direct Call,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,22,Sep,Direct Call,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,15,Sep,Direct Call,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,15,Nov,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,4,Oct,Direct Call,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,12,Jan,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Habib
+Not Paid,6,Jan,Direct Call,AD01-9364,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,2,May,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,30,Sep,Direct Call,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,17,Nov,Direct Call,AD01-9362,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,30,Nov,Direct Call,AD01-9363,0.0,0.0,2,2:10,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,3,May,Direct Call,AD01-9363,0.0,0.0,1,2:12,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,21,Dec,Direct Call,AD01-9362,0.0,0.0,1,2:12,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,12,May,Direct Call,AD01-9361,0.0,0.0,2,2:25,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,14,Jun,Direct Call,AD01-9362,0.0,0.0,1,2:25,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,15,Aug,Direct Call,AD01-9361,0.0,0.0,2,2:25,Not Enrolled,Not Enrolled,New York,Salah,Dina
+Not Paid,4,May,Direct Call,AD01-9364,0.0,0.0,3,3:00,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,20,Mar,Direct Call,AD01-9361,0.0,0.0,2,3:14,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,20,Dec,Direct Call,AD01-9361,0.0,0.0,1,3:14,Not Enrolled,Not Enrolled,New York,Mohammed,Kenza
+Not Paid,27,Nov,Direct Call,AD01-9362,0.0,0.0,1,3:40,Not Enrolled,Not Enrolled,New York,Salah,Dina
+Not Paid,19,Sep,Direct Call,AD01-9362,0.0,0.0,6,4:45,Not Enrolled,Not Enrolled,New York,Mohammed,Kenza
+Not Paid,11,Aug,Direct Call,AD01-9364,0.0,0.0,1,5:14,Not Enrolled,Not Enrolled,New York,Mohammed,Kenza
+Not Paid,10,Dec,Direct Call,AD01-9363,0.0,0.0,3,5:15,Not Enrolled,Not Enrolled,New York,Salah,Jood
+Not Paid,18,Mar,Direct Call,AD01-9362,0.0,0.0,1,8:10,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,2,Jul,Direct Call,AD01-9361,0.0,0.0,4,8:10,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,20,Sep,Direct Call,AD01-9362,0.0,0.0,1,8:20,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,31,Dec,Direct Call,AD01-9362,0.0,0.0,1,8:20,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,21,Sep,Direct Call,AD01-9362,0.0,0.0,2,10:10,Not Enrolled,Not Enrolled,New York,Salah,Ahmed
+Not Paid,5,Oct,Direct Call,AD01-9362,0.0,0.0,3,11:20,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,10,Dec,Direct Call,AD01-9361,0.0,0.0,2,11:20,Not Enrolled,Not Enrolled,New York,Ahmed,Khalil
+Not Paid,16,Nov,Direct Call,AD01-9362,0.0,0.0,3,12:45,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,12,Mar,Direct Call,AD01-9361,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,5,Jul,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,20,Sep,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,31,Dec,Direct Call,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,John
+Not Paid,28,May,Direct Call,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,28,Dec,Direct Call,AD01-9363,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,8,Oct,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Salah,Dina
+Not Paid,14,Mar,Direct Call,AD01-9362,0.0,0.0,4,2:12,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,16,Nov,Direct Call,AD01-9362,0.0,0.0,3,2:25,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,27,May,Direct Call,AD01-9362,0.0,0.0,3,2:30,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,15,Mar,Direct Call,AD01-9364,0.0,0.0,2,4:40,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,11,Jan,Direct Call,AD01-9361,0.0,0.0,4,4:45,Not Enrolled,Not Enrolled,New York,Abdullah,Hisham
+Not Paid,22,Sep,Direct Call,AD01-9365,0.0,0.0,6,5:12,Not Enrolled,Not Enrolled,New York,Salah,Dary
+Not Paid,5,Oct,Direct Call,AD01-9361,0.0,0.0,3,5:12,Not Enrolled,Not Enrolled,New York,Mohammed,Habib
+Not Paid,29,Sep,Direct Call,AD01-9362,0.0,0.0,2,7:30,Not Enrolled,Not Enrolled,New York,Mohammed,Mohmed
+Not Paid,26,Oct,Direct Call,AD01-9364,0.0,0.0,3,7:30,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,30,Sep,Direct Call,AD01-9361,0.0,0.0,2,8:40,Not Enrolled,Not Enrolled,New York,Salah,Sahar
+Not Paid,12,Aug,Direct Call,AD01-9361,0.0,0.0,3,9:12,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,22,Sep,Direct Call,AD01-9361,0.0,0.0,3,12:45,Not Enrolled,Not Enrolled,New York,Mohammed,Rony
+Not Paid,24,Nov,Direct Call,AD01-9362,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,New York,Mohammed,Kisho
+Not Paid,23,Sep,Youtube Channel,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Not Paid,24,Sep,Youtube Channel,AD01-9362,0.0,0.0,3,4:40,Not Enrolled,Not Enrolled,New York,Salah,John
+Not Paid,18,Nov,Youtube Channel,AD01-9362,0.0,0.0,4,4:45,Not Enrolled,Not Enrolled,New York,Ahmed,Hany
+Not Paid,14,Oct,Youtube Channel,AD01-9363,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,New York,Abdullah,Reham
+Paid,1,May,Company Website,AD01-9364,4.0,100000.0,2,2:12,Crane,Fndn. L5,Oregon,Salah,Dary
+Paid,8,Oct,Company Website,AD01-9361,4.0,55000.0,4,4:00,Crane,KJI. L4,Oregon,Mohammed,Rony
+Paid,17,Nov,Direct Call,AD01-9364,4.0,60000.0,1,3:40,Crane,Fndn. L5,Oregon,Ahmed,Hany
+Paid,22,Nov,Direct Call,AD01-9362,4.0,35000.0,2,5:12,Crane,KJI. L4,Oregon,Mohammed,Rony
+Paid,11,Jan,Google Ad,AD01-9364,4.0,100000.0,2,2:00,Crane,Fndn. L3,Oregon,Ahmed,Hany
+Paid,8,Oct,Google Ad,AD01-9362,4.0,100000.0,2,2:00,Crane,Fndn. L1,Oregon,Mohammed,Kisho
+Paid,9,Jul,Direct Call,AD01-9362,4.0,55000.0,1,12:55,Crane,KJI. L4,Oregon,Salah,John
+Paid,11,Feb,Company Website,AD01-9361,5.0,55000.0,1,2:00,Excavator,Fndn. L5,Oregon,Mohammed,Rony
+Paid,1,Oct,Company Website,AD01-9361,3.0,750000.0,5,2:00,Excavator,Fndn. L5,Oregon,Abdullah,Reham
+Paid,2,Nov,Company Website,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Fndn. L5,Oregon,Mohammed,Mohmed
+Paid,2,Nov,Company Website,AD01-9362,5.0,1250000.0,1,2:00,Excavator,Pre. L3,Oregon,Salah,Ahmed
+Paid,6,May,Company Website,AD01-9365,2.0,600000.0,1,2:00,Excavator,Fndn. L3,Oregon,Mohammed,Mohmed
+Paid,12,Jul,Company Website,AD01-9361,5.0,1250000.0,2,2:30,Excavator,KJI. L4,Oregon,Abdullah,Hisham
+Paid,21,Oct,Company Website,AD01-9364,5.0,1000000.0,5,4:45,Excavator,Pre. L3,Oregon,Mohammed,Rony
+Paid,18,Feb,Company Website,AD01-9362,5.0,1000000.0,1,5:12,Excavator,Pre. L4,Oregon,Abdullah,Adam
+Paid,28,Oct,Company Website,AD01-9361,2.0,600000.0,2,7:30,Excavator,KJI. L4,Oregon,Salah,Jood
+Paid,22,Nov,Company Website,AD01-9364,1.0,350000.0,1,9:12,Excavator,Fndn. L5,Oregon,Ahmed,Hany
+Paid,30,Sep,Company Website,AD01-9362,2.0,500000.0,1,11:20,Excavator,Pre. L3,Oregon,Salah,Jood
+Paid,23,Sep,Direct Call,AD01-9364,4.0,750000.0,1,2:00,Excavator,Fndn. L5,Oregon,Abdullah,Adam
+Paid,11,Feb,Direct Call,AD01-9363,2.0,600000.0,2,2:00,Excavator,Pre. L8,Oregon,Salah,John
+Paid,2,Jan,Direct Call,AD01-9362,4.0,750000.0,3,2:00,Excavator,Pre. L8,Oregon,Salah,Sahar
+Paid,1,Oct,Direct Call,AD01-9361,2.0,600000.0,4,2:00,Excavator,Pre. L3,Oregon,Salah,Ahmed
+Paid,2,Oct,Facebook Page,AD01-9361,3.0,750000.0,3,2:00,Excavator,KJI. L4,Oregon,Salah,Ahmed
+Paid,17,Nov,Facebook Page,AD01-9364,5.0,1050000.0,1,2:10,Excavator,Pre. L4,Oregon,Ahmed,Khalil
+Paid,20,May,Direct Call,AD01-9363,3.0,750000.0,2,2:25,Excavator,Fndn. L1,Oregon,Salah,Sahar
+Paid,22,Nov,Facebook Page,AD01-9361,3.0,750000.0,5,6:20,Excavator,KJI. L4,Oregon,Salah,Jood
+Paid,20,Sep,Facebook Page,AD01-9364,2.0,600000.0,2,7:14,Excavator,KJI. L4,Oregon,Salah,Sahar
+Paid,13,May,Facebook Page,AD01-9362,2.0,600000.0,1,7:14,Excavator,Fndn. L1,Oregon,Mohammed,Kisho
+Paid,27,Aug,Facebook Page,AD01-9365,5.0,1250000.0,4,8:12,Excavator,Pre. L3,Oregon,Salah,John
+Paid,30,Sep,Facebook Page,AD01-9361,2.0,600000.0,4,9:15,Excavator,KJI. L4,Oregon,Salah,Ahmed
+Paid,28,Sep,Direct Call,AD01-9362,3.0,550000.0,2,12:45,Excavator,Fndn. L5,Oregon,Salah,Jood
+Paid,19,Nov,Google Ad,AD01-9362,5.0,1050000.0,1,2:18,Excavator,Fndn. L1,Oregon,Mohammed,Mohmed
+Paid,14,Feb,Google Ad,AD01-9362,2.0,500000.0,7,2:30,Excavator,Fndn. L5,Oregon,Salah,Dary
+Paid,27,Sep,Google Ad,AD01-9361,5.0,1250000.0,1,2:56,Excavator,Pre. L3,Oregon,Salah,Dina
+Paid,24,Dec,Google Ad,AD01-9362,2.0,600000.0,2,3:12,Excavator,Fndn. L5,Oregon,Abdullah,Reham
+Paid,29,Oct,Google Ad,AD01-9362,2.0,600000.0,1,3:14,Excavator,Pre. L3,Oregon,Abdullah,Adam
+Paid,1,Jan,Google Ad,AD01-9361,1.0,350000.0,3,3:30,Excavator,Fndn. L6,Oregon,Salah,Sahar
+Paid,15,Feb,Google Ad,AD01-9361,3.0,600000.0,4,4:00,Excavator,Fndn. L5,Oregon,Salah,Dary
+Paid,8,Oct,Google Ad,AD01-9361,3.0,750000.0,3,4:48,Excavator,KJI. L4,Oregon,Salah,Sahar
+Paid,31,May,Google Ad,AD01-9362,2.0,600000.0,4,9:12,Excavator,Pre. L3,Oregon,Mohammed,Kisho
+Paid,11,Apr,Google Ad,AD01-9361,3.0,750000.0,2,11:20,Excavator,Fndn. L3,Oregon,Abdullah,Hisham
+Paid,12,Nov,Google Ad,AD01-9362,3.0,750000.0,1,11:20,Excavator,Fndn. L5,Oregon,Salah,Dary
+Paid,25,Sep,Direct Call,AD01-9364,3.0,750000.0,3,2:00,Excavator,Pre. L3,Oregon,Mohammed,Mohmed
+Paid,4,Oct,Direct Call,AD01-9361,3.0,550000.0,6,2:00,Excavator,Fndn. L1,Oregon,Mohammed,Rony
+Paid,26,Oct,Direct Call,AD01-9361,1.0,350000.0,2,2:00,Excavator,Pre. L4,Oregon,Salah,Dina
+Paid,12,Jun,Direct Call,AD01-9362,3.0,750000.0,5,2:00,Excavator,Fndn. L1,Oregon,Salah,John
+Paid,30,Sep,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,KJI. L4,Oregon,Ahmed,Hany
+Paid,9,Aug,Direct Call,AD01-9362,3.0,600000.0,5,2:00,Excavator,Pre. L4,Oregon,Mohammed,Mohmed
+Paid,29,Oct,Direct Call,AD01-9361,2.0,600000.0,1,2:00,Excavator,Pre. L3,Oregon,Mohammed,Rony
+Paid,4,Nov,Direct Call,AD01-9362,2.0,600000.0,5,2:18,Excavator,Pre. L2,Oregon,Salah,Jood
+Paid,6,Oct,Direct Call,AD01-9361,1.0,350000.0,2,2:56,Excavator,KJI. L4,Oregon,Salah,John
+Paid,30,Sep,Direct Call,AD01-9361,5.0,1250000.0,3,3:30,Excavator,KJI. L4,Oregon,Salah,Sahar
+Paid,7,Oct,Direct Call,AD01-9362,2.0,500000.0,5,3:30,Excavator,Fndn. L5,Oregon,Mohammed,Rony
+Paid,10,Aug,Direct Call,AD01-9361,2.0,600000.0,2,3:40,Excavator,Fndn. L5,Oregon,Mohammed,Mohmed
+Paid,17,Nov,Direct Call,AD01-9362,2.0,600000.0,3,4:48,Excavator,Fndn. L5,Oregon,Ahmed,Hany
+Paid,4,Oct,Direct Call,AD01-9362,4.0,750000.0,5,5:14,Excavator,Fndn. L5,Oregon,Salah,Ahmed
+Paid,9,Oct,Direct Call,AD01-9364,1.0,350000.0,4,6:15,Excavator,Fndn. L5,Oregon,Mohammed,Rony
+Paid,11,Sep,Direct Call,AD01-9361,2.0,600000.0,4,8:10,Excavator,Fndn. L1,Oregon,Mohammed,Rony
+Paid,7,Nov,Direct Call,AD01-9362,5.0,1250000.0,3,9:12,Excavator,Pre. L8,Oregon,Salah,Dina
+Paid,11,Feb,Direct Call,AD01-9362,5.0,1250000.0,1,9:15,Excavator,Fndn. L5,Oregon,Salah,Sahar
+Paid,2,May,Direct Call,AD01-9362,5.0,1250000.0,1,12:45,Excavator,KJI. L4,Oregon,Salah,Jood
+Paid,3,Apr,Direct Call,AD01-9362,4.0,750000.0,1,2:00,Excavator,Pre. L3,Oregon,Salah,Sahar
+Paid,14,Nov,Direct Call,AD01-9364,5.0,1250000.0,1,2:00,Excavator,Fndn. L1,Oregon,Abdullah,Hisham
+Paid,16,Jan,Direct Call,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Pre. L2,Oregon,Mohammed,Rony
+Paid,12,Jul,Direct Call,AD01-9361,2.0,600000.0,4,2:00,Excavator,Fndn. L3,Oregon,Abdullah,Reham
+Paid,27,Oct,Direct Call,AD01-9364,2.0,600000.0,2,2:50,Excavator,Pre. L8,Oregon,Mohammed,Rony
+Paid,20,Dec,Direct Call,AD01-9361,4.0,1000000.0,4,3:12,Excavator,Fndn. L1,Oregon,Abdullah,Hisham
+Paid,17,Nov,Direct Call,AD01-9362,2.0,600000.0,4,8:12,Excavator,Pre. L4,Oregon,Ahmed,Khalil
+Paid,17,Dec,Youtube Channel,AD01-9364,3.0,750000.0,5,2:00,Excavator,Fndn. L1,Oregon,Abdullah,Reham
+Paid,29,Dec,Company Website,AD01-9362,1.0,95000.0,1,2:00,Truck,Fndn. L6,Oregon,Mohammed,Habib
+Paid,31,Aug,Company Website,AD01-9361,1.0,95000.0,2,2:12,Truck,KJI. L4,Oregon,Mohammed,Mohmed
+Paid,1,Nov,Company Website,AD01-9361,2.0,190000.0,4,3:14,Truck,KJI. L4,Oregon,Salah,Sahar
+Paid,11,Feb,Company Website,AD01-9364,2.0,190000.0,2,8:12,Truck,KJI. L4,Oregon,Salah,Dina
+Paid,11,Mar,Direct Call,AD01-9362,2.0,190000.0,2,2:00,Truck,Pre. L3,Oregon,Salah,Dary
+Paid,12,Feb,Direct Call,AD01-9364,1.0,95000.0,5,2:00,Truck,Fndn. L3,Oregon,Ahmed,Hany
+Paid,1,May,Facebook Page,AD01-9363,1.0,95000.0,2,2:00,Truck,Fndn. L1,Oregon,Abdullah,Hisham
+Paid,1,Oct,Facebook Page,AD01-9361,1.0,95000.0,1,2:25,Truck,Fndn. L1,Oregon,Mohammed,Kenza
+Paid,27,Oct,Facebook Page,AD01-9362,1.0,95000.0,2,6:20,Truck,KJI. L4,Oregon,Mohammed,Kisho
+Paid,28,Aug,Facebook Page,AD01-9362,2.0,190000.0,5,7:14,Truck,Pre. L3,Oregon,Salah,Sahar
+Paid,3,Nov,Google Ad,AD01-9361,1.0,95000.0,1,2:00,Truck,Fndn. L1,Oregon,Mohammed,Rony
+Paid,25,Nov,Direct Call,AD01-9361,2.0,190000.0,1,2:00,Truck,Pre. L2,Oregon,Salah,Dary
+Paid,30,Sep,Direct Call,AD01-9362,1.0,95000.0,1,3:12,Truck,Fndn. L5,Oregon,Mohammed,Rony
+Paid,28,Oct,Direct Call,AD01-9364,1.0,95000.0,1,3:16,Truck,KJI. L4,Oregon,Salah,Dary
+Paid,4,Nov,Direct Call,AD01-9362,2.0,190000.0,5,6:15,Truck,Fndn. L5,Oregon,Mohammed,Rony
+Paid,8,Oct,Direct Call,AD01-9363,2.0,190000.0,4,2:00,Truck,KJI. L4,Oregon,Ahmed,Hany
+Paid,7,Jul,Direct Call,AD01-9362,1.0,95000.0,6,6:18,Truck,Fndn. L5,Oregon,Salah,Jood
+Paid,12,Jun,Company Website,AD01-9361,2.0,190000.0,3,2:00,Truck,Fndn. L1,Oregon,Salah,Dary
+Paid,1,May,Company Website,AD01-9364,4.0,100000.0,2,2:12,Truck,Fndn. L5,Oregon,Salah,Dary
+Paid,8,Oct,Company Website,AD01-9361,4.0,100000.0,4,4:00,Truck,KJI. L4,Oregon,Mohammed,Rony
+Paid,7,Jul,Direct Call,AD01-9362,1.0,9500.0,6,6:18,Truck,Fndn. L5,Oregon,Salah,Jood
+Paid,17,Nov,Direct Call,AD01-9364,4.0,55000.0,1,3:40,Truck,Fndn. L5,Oregon,Ahmed,Hany
+Paid,22,Nov,Direct Call,AD01-9362,4.0,100000.0,2,5:12,Truck,KJI. L4,Oregon,Mohammed,Rony
+Paid,11,Jan,Google Ad,AD01-9364,4.0,100000.0,2,2:00,Truck,Fndn. L3,Oregon,Ahmed,Hany
+Paid,8,Oct,Google Ad,AD01-9362,4.0,100000.0,2,2:00,Truck,Fndn. L1,Oregon,Mohammed,Kisho
+Paid,2,May,Direct Call,AD01-9362,5.0,125000.0,1,12:45,Truck,KJI. L4,Oregon,Salah,Jood
+Not Paid,17,Mar,Company Website,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Oregon,Mohammed,Rony
+Not Paid,26,Oct,Company Website,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Oregon,Salah,Sahar
+Not Paid,1,Dec,Company Website,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Oregon,Salah,Dary
+Not Paid,30,May,Company Website,AD01-9362,0.0,0.0,3,2:18,Not Enrolled,Not Enrolled,Oregon,Abdullah,Hisham
+Not Paid,25,Sep,Company Website,AD01-9362,0.0,0.0,1,3:12,Not Enrolled,Not Enrolled,Oregon,Salah,John
+Not Paid,15,Dec,Company Website,AD01-9362,0.0,0.0,1,6:15,Not Enrolled,Not Enrolled,Oregon,Salah,Sahar
+Not Paid,30,Dec,Company Website,AD01-9365,0.0,0.0,1,6:30,Not Enrolled,Not Enrolled,Oregon,Salah,Jood
+Not Paid,11,Nov,Direct Call,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Oregon,Salah,Dary
+Not Paid,23,Oct,Direct Call,AD01-9363,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Oregon,Ahmed,Khalil
+Not Paid,5,Apr,Direct Call,AD01-9364,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Oregon,Mohammed,Mohmed
+Not Paid,24,Sep,Direct Call,AD01-9362,0.0,0.0,2,2:50,Not Enrolled,Not Enrolled,Oregon,Ahmed,Khalil
+Not Paid,29,Oct,Direct Call,AD01-9363,0.0,0.0,5,7:10,Not Enrolled,Not Enrolled,Oregon,Ahmed,Khalil
+Not Paid,30,Nov,Direct Call,AD01-9362,0.0,0.0,1,7:10,Not Enrolled,Not Enrolled,Oregon,Salah,Ahmed
+Not Paid,11,Nov,Direct Call,AD01-9361,0.0,0.0,2,7:14,Not Enrolled,Not Enrolled,Oregon,Ahmed,Khalil
+Not Paid,30,Nov,Direct Call,AD01-9362,0.0,0.0,5,12:45,Not Enrolled,Not Enrolled,Oregon,Mohammed,Mohmed
+Not Paid,5,Oct,Google Ad,AD01-9362,0.0,0.0,5,6:20,Not Enrolled,Not Enrolled,Oregon,Mohammed,Kisho
+Not Paid,1,Oct,Google Ad,AD01-9362,0.0,0.0,1,8:00,Not Enrolled,Not Enrolled,Oregon,Ahmed,Hany
+Not Paid,5,May,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Oregon,Salah,John
+Not Paid,27,Sep,Direct Call,AD01-9362,0.0,0.0,3,2:12,Not Enrolled,Not Enrolled,Oregon,Ahmed,Hany
+Not Paid,1,Nov,Direct Call,AD01-9362,0.0,0.0,4,2:30,Not Enrolled,Not Enrolled,Oregon,Mohammed,Rony
+Not Paid,12,Jun,Direct Call,AD01-9362,0.0,0.0,2,4:48,Not Enrolled,Not Enrolled,Oregon,Abdullah,Adam
+Not Paid,17,Sep,Direct Call,AD01-9362,0.0,0.0,4,4:48,Not Enrolled,Not Enrolled,Oregon,Salah,Ahmed
+Not Paid,27,Nov,Direct Call,AD01-9364,0.0,0.0,1,8:00,Not Enrolled,Not Enrolled,Oregon,Mohammed,Mohmed
+Not Paid,18,Mar,Direct Call,AD01-9362,0.0,0.0,1,8:10,Not Enrolled,Not Enrolled,Oregon,Mohammed,Rony
+Not Paid,5,Jan,Direct Call,AD01-9363,0.0,0.0,4,8:40,Not Enrolled,Not Enrolled,Oregon,Mohammed,Kisho
+Not Paid,11,Mar,Direct Call,AD01-9364,0.0,0.0,1,9:00,Not Enrolled,Not Enrolled,Oregon,Mohammed,Mohmed
+Not Paid,13,Jan,Direct Call,AD01-9363,0.0,0.0,2,9:15,Not Enrolled,Not Enrolled,Oregon,Ahmed,Hany
+Not Paid,4,Dec,Direct Call,AD01-9365,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Oregon,Abdullah,Reham
+Not Paid,30,Dec,Direct Call,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Oregon,Salah,Dina
+Not Paid,11,Nov,Direct Call,AD01-9361,0.0,0.0,3,2:10,Not Enrolled,Not Enrolled,Oregon,Mohammed,Mohmed
+Not Paid,11,Jan,Youtube Channel,AD01-9362,0.0,0.0,4,2:18,Not Enrolled,Not Enrolled,Oregon,Salah,John
+Not Paid,21,Feb,Youtube Channel,AD01-9362,0.0,0.0,2,3:12,Not Enrolled,Not Enrolled,Oregon,Salah,Dary
+Paid,16,Aug,Company Website,AD01-9361,4.0,60000.0,3,3:00,Crane,Fndn. L5,Texas,Salah,Dary
+Paid,15,Dec,Company Website,AD01-9365,4.0,55000.0,2,8:12,Crane,Fndn. L5,Texas,Mohammed,Mohmed
+Paid,11,Jan,Google Ad,AD01-9364,4.0,100000.0,2,2:00,Crane,Fndn. L3,Texas,Ahmed,Hany
+Paid,1,Oct,Google Ad,AD01-9362,4.0,100000.0,2,2:18,Crane,Fndn. L3,Texas,Salah,John
+Paid,28,Sep,Google Ad,AD01-9363,4.0,100000.0,2,3:12,Crane,Pre. L3,Texas,Mohammed,Kisho
+Paid,1,May,Google Ad,AD01-9361,4.0,100000.0,4,4:48,Crane,Pre. L4,Texas,Salah,John
+Paid,18,Nov,Google Ad,AD01-9364,4.0,55000.0,1,5:15,Crane,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,22,Nov,Google Ad,AD01-9362,4.0,55000.0,3,6:30,Crane,Pre. L3,Texas,Mohammed,Mohmed
+Paid,26,Aug,Direct Call,AD01-9362,4.0,55000.0,3,2:00,Crane,KJI. L4,Texas,Ahmed,Khalil
+Paid,22,Nov,Direct Call,AD01-9361,4.0,100000.0,4,2:00,Crane,Pre. L3,Texas,Mohammed,Mohmed
+Paid,1,May,Direct Call,AD01-9364,4.0,100000.0,4,2:00,Crane,Fndn. L1,Texas,Salah,Dina
+Paid,26,Oct,Direct Call,AD01-9363,4.0,55000.0,1,2:00,Crane,Pre. L8,Texas,Ahmed,Hany
+Paid,5,Oct,Direct Call,AD01-9364,4.0,100000.0,4,2:30,Crane,KJI. L4,Texas,Mohammed,Kisho
+Paid,17,Jun,Direct Call,AD01-9362,4.0,100000.0,1,2:56,Crane,Pre. L8,Texas,Salah,Ahmed
+Paid,17,Dec,Direct Call,AD01-9361,4.0,55000.0,1,3:12,Crane,Pre. L4,Texas,Mohammed,Kisho
+Paid,28,Aug,Direct Call,AD01-9362,4.0,105000.0,2,2:00,Crane,KJI. L4,Texas,Abdullah,Reham
+Paid,28,Aug,Direct Call,AD01-9362,4.0,100000.0,2,2:00,Crane,KJI. L4,Texas,Abdullah,Reham
+Paid,2,Nov,Direct Call,AD01-9361,4.0,100000.0,1,2:00,Crane,Pre. L8,Texas,Mohammed,Mohmed
+Paid,15,Jan,Direct Call,AD01-9362,4.0,55000.0,3,2:25,Crane,Fndn. L3,Texas,Salah,Sahar
+Paid,11,Feb,Direct Call,AD01-9361,4.0,100000.0,2,3:30,Crane,Fndn. L5,Texas,Mohammed,Kenza
+Paid,30,Oct,Direct Call,AD01-9362,4.0,55000.0,3,8:10,Crane,Fndn. L1,Texas,Mohammed,Kisho
+Paid,12,Jun,Youtube Channel,AD01-9362,4.0,75000.0,1,6:30,Crane,Pre. L8,Texas,Mohammed,Kisho
+Paid,1,Oct,Company Website,AD01-9364,3.0,600000.0,2,2:00,Excavator,Fndn. L3,Texas,Salah,Dary
+Paid,16,Nov,Company Website,AD01-9362,2.0,600000.0,3,2:00,Excavator,KJI. L4,Texas,Mohammed,Kisho
+Paid,1,Apr,Company Website,AD01-9362,5.0,1250000.0,1,2:00,Excavator,Fndn. L1,Texas,Salah,Sahar
+Paid,17,Nov,Company Website,AD01-9362,1.0,350000.0,3,2:00,Excavator,KJI. L4,Texas,Salah,Sahar
+Paid,2,Aug,Company Website,AD01-9363,2.0,600000.0,2,2:00,Excavator,Pre. L3,Texas,Salah,Ahmed
+Paid,28,Oct,Company Website,AD01-9361,2.0,600000.0,1,2:00,Excavator,Pre. L4,Texas,Ahmed,Khalil
+Paid,24,Nov,Company Website,AD01-9363,4.0,1000000.0,7,2:00,Excavator,Fndn. L5,Texas,Mohammed,Habib
+Paid,4,Apr,Company Website,AD01-9362,5.0,1000000.0,1,2:00,Excavator,Fndn. L3,Texas,Abdullah,Reham
+Paid,14,Feb,Company Website,AD01-9361,2.0,600000.0,1,2:12,Excavator,Pre. L2,Texas,Abdullah,Hisham
+Paid,7,May,Company Website,AD01-9362,3.0,750000.0,1,2:12,Excavator,Pre. L2,Texas,Salah,Sahar
+Paid,30,Sep,Company Website,AD01-9364,4.0,750000.0,1,2:12,Excavator,Fndn. L1,Texas,Mohammed,Habib
+Paid,12,Jul,Company Website,AD01-9361,5.0,1250000.0,2,2:30,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,1,Nov,Company Website,AD01-9362,4.0,1000000.0,3,2:30,Excavator,Pre. L3,Texas,Ahmed,Khalil
+Paid,30,Aug,Company Website,AD01-9361,5.0,1250000.0,1,3:14,Excavator,Pre. L4,Texas,Mohammed,Kisho
+Paid,9,Sep,Company Website,AD01-9361,1.0,350000.0,2,3:14,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,22,Nov,Company Website,AD01-9361,2.0,600000.0,4,4:00,Excavator,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,3,Nov,Company Website,AD01-9362,2.0,600000.0,4,5:15,Excavator,Fndn. L3,Texas,Salah,Dina
+Paid,1,Apr,Company Website,AD01-9361,2.0,600000.0,1,6:30,Excavator,Fndn. L1,Texas,Mohammed,Kisho
+Paid,19,Feb,Company Website,AD01-9363,2.0,600000.0,3,7:10,Excavator,Pre. L8,Texas,Mohammed,Mohmed
+Paid,22,Nov,Company Website,AD01-9361,3.0,550000.0,3,7:30,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,28,Oct,Company Website,AD01-9362,1.0,350000.0,2,8:00,Excavator,Fndn. L5,Texas,Mohammed,Mohmed
+Paid,30,Sep,Company Website,AD01-9362,2.0,600000.0,2,8:20,Excavator,Pre. L4,Texas,Abdullah,Reham
+Paid,12,Oct,Company Website,AD01-9362,4.0,750000.0,4,8:20,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,23,Nov,Company Website,AD01-9361,2.0,600000.0,1,8:20,Excavator,Fndn. L3,Texas,Salah,Sahar
+Paid,29,Aug,Company Website,AD01-9364,5.0,1050000.0,5,9:15,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,1,Jul,Company Website,AD01-9362,5.0,1250000.0,1,9:36,Excavator,Fndn. L5,Texas,Mohammed,Rony
+Paid,12,Jun,Company Website,AD01-9362,3.0,750000.0,3,10:10,Excavator,Pre. L4,Texas,Abdullah,Hisham
+Paid,24,Sep,Company Website,AD01-9363,2.0,600000.0,2,10:10,Excavator,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,1,Apr,Company Website,AD01-9361,5.0,1250000.0,1,11:20,Excavator,KJI. L4,Texas,Ahmed,Khalil
+Paid,4,Oct,Company Website,AD01-9361,4.0,1000000.0,2,12:55,Excavator,Fndn. L5,Texas,Abdullah,Reham
+Paid,1,May,Direct Call,AD01-9361,5.0,1250000.0,1,2:00,Excavator,Pre. L2,Texas,Ahmed,Hany
+Paid,10,Aug,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,25,Sep,Direct Call,AD01-9362,3.0,750000.0,4,2:00,Excavator,KJI. L4,Texas,Ahmed,Hany
+Paid,2,Jan,Direct Call,AD01-9362,4.0,750000.0,3,2:00,Excavator,Pre. L8,Texas,Salah,Sahar
+Paid,30,Sep,Facebook Page,AD01-9362,3.0,750000.0,1,2:00,Excavator,Fndn. L5,Texas,Abdullah,Hisham
+Paid,1,Jan,Facebook Page,AD01-9362,3.0,550000.0,2,2:00,Excavator,Pre. L4,Texas,Salah,John
+Paid,11,Sep,Facebook Page,AD01-9362,5.0,1250000.0,2,2:00,Excavator,Fndn. L5,Texas,Mohammed,Habib
+Paid,21,Sep,Facebook Page,AD01-9361,2.0,600000.0,3,2:12,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,26,Sep,Facebook Page,AD01-9365,5.0,1250000.0,3,2:12,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,6,Nov,Direct Call,AD01-9361,3.0,550000.0,5,2:12,Excavator,Fndn. L6,Texas,Ahmed,Hany
+Paid,1,May,Direct Call,AD01-9361,2.0,600000.0,3,2:25,Excavator,Fndn. L5,Texas,Salah,Dary
+Paid,1,Oct,Direct Call,AD01-9361,2.0,600000.0,1,2:30,Excavator,Fndn. L5,Texas,Mohammed,Rony
+Paid,30,Sep,Direct Call,AD01-9361,5.0,1250000.0,2,2:50,Excavator,Fndn. L5,Texas,Salah,Ahmed
+Paid,9,Nov,Direct Call,AD01-9362,5.0,1250000.0,2,3:12,Excavator,Fndn. L3,Texas,Ahmed,Khalil
+Paid,29,Oct,Direct Call,AD01-9365,2.0,600000.0,1,3:14,Excavator,Pre. L2,Texas,Abdullah,Reham
+Paid,30,Aug,Direct Call,AD01-9361,2.0,600000.0,2,3:17,Excavator,Fndn. L5,Texas,Mohammed,Rony
+Paid,25,Oct,Facebook Page,AD01-9361,5.0,1250000.0,3,4:00,Excavator,Fndn. L5,Texas,Abdullah,Hisham
+Paid,16,Jan,Facebook Page,AD01-9361,2.0,600000.0,1,4:40,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,12,Jun,Facebook Page,AD01-9364,5.0,1250000.0,1,5:15,Excavator,Pre. L4,Texas,Mohammed,Mohmed
+Paid,30,Sep,Facebook Page,AD01-9362,4.0,1000000.0,3,5:15,Excavator,KJI. L4,Texas,Abdullah,Adam
+Paid,22,Nov,Facebook Page,AD01-9361,2.0,600000.0,6,6:18,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,1,Apr,Facebook Page,AD01-9362,5.0,1250000.0,2,6:30,Excavator,Pre. L2,Texas,Salah,Dary
+Paid,11,Oct,Facebook Page,AD01-9364,5.0,1250000.0,2,6:30,Excavator,Fndn. L1,Texas,Salah,Dary
+Paid,3,Nov,Facebook Page,AD01-9364,4.0,750000.0,3,7:14,Excavator,Pre. L4,Texas,Salah,Sahar
+Paid,6,Jan,Facebook Page,AD01-9362,5.0,1000000.0,3,7:30,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,11,Feb,Facebook Page,AD01-9362,4.0,1000000.0,1,8:10,Excavator,Pre. L3,Texas,Salah,Dina
+Paid,27,Aug,Facebook Page,AD01-9365,5.0,1250000.0,4,8:12,Excavator,Pre. L3,Texas,Salah,John
+Paid,5,Oct,Facebook Page,AD01-9362,1.0,350000.0,4,9:00,Excavator,Fndn. L5,Texas,Salah,Ahmed
+Paid,22,Nov,Direct Call,AD01-9364,4.0,1000000.0,4,9:36,Excavator,KJI. L4,Texas,Salah,Sahar
+Paid,11,Nov,Direct Call,AD01-9362,2.0,600000.0,1,12:55,Excavator,Fndn. L5,Texas,Salah,Jood
+Paid,13,Feb,Direct Call,AD01-9364,1.0,350000.0,6,12:55,Excavator,Pre. L2,Texas,Ahmed,Khalil
+Paid,20,Oct,Google Ad,AD01-9364,2.0,600000.0,4,2:00,Excavator,Pre. L4,Texas,Abdullah,Hisham
+Paid,14,Jan,Google Ad,AD01-9364,3.0,750000.0,2,2:00,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,11,Feb,Google Ad,AD01-9362,2.0,500000.0,1,2:00,Excavator,Fndn. L1,Texas,Salah,John
+Paid,1,Jun,Google Ad,AD01-9361,3.0,750000.0,2,2:00,Excavator,Pre. L3,Texas,Mohammed,Rony
+Paid,1,Apr,Google Ad,AD01-9362,2.0,600000.0,1,2:00,Excavator,Fndn. L5,Texas,Mohammed,Kenza
+Paid,12,Nov,Google Ad,AD01-9364,3.0,750000.0,2,2:00,Excavator,Pre. L4,Texas,Abdullah,Adam
+Paid,27,Oct,Google Ad,AD01-9362,5.0,1250000.0,4,2:00,Excavator,Pre. L3,Texas,Mohammed,Rony
+Paid,8,Oct,Google Ad,AD01-9364,2.0,600000.0,2,2:00,Excavator,Fndn. L1,Texas,Salah,Ahmed
+Paid,22,Nov,Google Ad,AD01-9361,2.0,600000.0,2,2:00,Excavator,Fndn. L5,Texas,Salah,Dary
+Paid,28,Jul,Google Ad,AD01-9362,2.0,600000.0,1,2:10,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,30,Sep,Google Ad,AD01-9362,5.0,1250000.0,2,2:18,Excavator,Fndn. L1,Texas,Mohammed,Rony
+Paid,28,Oct,Google Ad,AD01-9362,2.0,600000.0,1,2:18,Excavator,Pre. L4,Texas,Salah,Dina
+Paid,14,Feb,Google Ad,AD01-9362,2.0,500000.0,7,2:30,Excavator,Fndn. L5,Texas,Salah,Dary
+Paid,2,Oct,Google Ad,AD01-9362,5.0,1050000.0,1,3:12,Excavator,Pre. L2,Texas,Abdullah,Reham
+Paid,29,Oct,Google Ad,AD01-9362,2.0,600000.0,1,3:12,Excavator,Pre. L8,Texas,Mohammed,Kisho
+Paid,10,Dec,Google Ad,AD01-9362,2.0,600000.0,4,3:12,Excavator,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,1,May,Google Ad,AD01-9362,4.0,1000000.0,3,3:12,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,19,Aug,Google Ad,AD01-9362,3.0,750000.0,2,3:40,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,15,Feb,Google Ad,AD01-9361,3.0,600000.0,4,4:00,Excavator,Fndn. L5,Texas,Salah,Dary
+Paid,30,Sep,Google Ad,AD01-9361,3.0,750000.0,3,4:40,Excavator,Fndn. L5,Texas,Mohammed,Rony
+Paid,30,Oct,Google Ad,AD01-9363,1.0,350000.0,3,4:40,Excavator,Pre. L2,Texas,Abdullah,Reham
+Paid,12,Sep,Google Ad,AD01-9364,2.0,500000.0,5,4:48,Excavator,Fndn. L3,Texas,Ahmed,Hany
+Paid,13,Jan,Google Ad,AD01-9362,2.0,600000.0,1,4:48,Excavator,Pre. L3,Texas,Mohammed,Kisho
+Paid,19,Nov,Google Ad,AD01-9361,3.0,750000.0,3,5:15,Excavator,Fndn. L5,Texas,Salah,Sahar
+Paid,30,Sep,Google Ad,AD01-9362,2.0,600000.0,4,6:30,Excavator,Fndn. L5,Texas,Salah,Sahar
+Paid,11,Nov,Google Ad,AD01-9363,3.0,750000.0,3,6:30,Excavator,Pre. L4,Texas,Abdullah,Reham
+Paid,22,Oct,Google Ad,AD01-9361,3.0,750000.0,5,8:20,Excavator,Fndn. L1,Texas,Salah,Ahmed
+Paid,11,Oct,Google Ad,AD01-9364,1.0,350000.0,1,8:40,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,28,Oct,Google Ad,AD01-9364,3.0,750000.0,1,9:36,Excavator,Pre. L8,Texas,Salah,Sahar
+Paid,11,Apr,Google Ad,AD01-9361,3.0,750000.0,2,11:20,Excavator,Fndn. L3,Texas,Abdullah,Hisham
+Paid,11,Sep,Direct Call,AD01-9364,5.0,1250000.0,2,2:00,Excavator,Fndn. L3,Texas,Ahmed,Khalil
+Paid,12,Jan,Direct Call,AD01-9362,3.0,550000.0,1,2:00,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,8,Oct,Direct Call,AD01-9362,3.0,750000.0,3,2:00,Excavator,Fndn. L3,Texas,Salah,Dina
+Paid,12,Jun,Direct Call,AD01-9362,2.0,600000.0,2,2:00,Excavator,KJI. L4,Texas,Mohammed,Kisho
+Paid,12,Jun,Direct Call,AD01-9362,3.0,750000.0,5,2:00,Excavator,Fndn. L1,Texas,Salah,John
+Paid,30,Sep,Direct Call,AD01-9363,2.0,600000.0,3,2:00,Excavator,Pre. L2,Texas,Salah,John
+Paid,10,Aug,Direct Call,AD01-9365,2.0,600000.0,4,2:00,Excavator,Fndn. L6,Texas,Mohammed,Rony
+Paid,14,Oct,Direct Call,AD01-9361,1.0,350000.0,5,2:00,Excavator,Fndn. L3,Texas,Ahmed,Hany
+Paid,9,Aug,Direct Call,AD01-9362,3.0,600000.0,5,2:00,Excavator,Pre. L4,Texas,Mohammed,Mohmed
+Paid,19,Nov,Direct Call,AD01-9364,3.0,750000.0,3,2:00,Excavator,Fndn. L1,Texas,Mohammed,Kisho
+Paid,16,Dec,Direct Call,AD01-9361,3.0,750000.0,3,2:00,Excavator,Pre. L8,Texas,Mohammed,Rony
+Paid,11,Feb,Direct Call,AD01-9361,4.0,1000000.0,1,2:00,Excavator,Pre. L2,Texas,Ahmed,Hany
+Paid,13,Jun,Direct Call,AD01-9361,5.0,1050000.0,4,2:00,Excavator,Fndn. L6,Texas,Ahmed,Khalil
+Paid,19,Oct,Direct Call,AD01-9362,5.0,1250000.0,3,2:00,Excavator,KJI. L4,Texas,Mohammed,Kisho
+Paid,3,Nov,Direct Call,AD01-9362,2.0,600000.0,4,2:00,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,28,Oct,Direct Call,AD01-9364,5.0,1050000.0,3,2:00,Excavator,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,25,Oct,Direct Call,AD01-9361,5.0,1250000.0,1,2:00,Excavator,KJI. L4,Texas,Ahmed,Khalil
+Paid,11,Aug,Direct Call,AD01-9362,3.0,750000.0,4,2:00,Excavator,Fndn. L5,Texas,Ahmed,Hany
+Paid,11,Feb,Direct Call,AD01-9364,2.0,600000.0,3,2:10,Excavator,Pre. L3,Texas,Salah,John
+Paid,2,Sep,Direct Call,AD01-9363,2.0,500000.0,2,2:12,Excavator,Pre. L2,Texas,Mohammed,Rony
+Paid,3,Oct,Direct Call,AD01-9364,3.0,750000.0,2,2:12,Excavator,KJI. L4,Texas,Salah,Dina
+Paid,17,Nov,Direct Call,AD01-9361,3.0,750000.0,5,2:12,Excavator,Fndn. L1,Texas,Mohammed,Kisho
+Paid,31,Dec,Direct Call,AD01-9361,2.0,600000.0,2,2:12,Excavator,Pre. L8,Texas,Mohammed,Kisho
+Paid,16,Dec,Direct Call,AD01-9364,3.0,750000.0,3,2:18,Excavator,Pre. L4,Texas,Salah,Jood
+Paid,12,Jan,Direct Call,AD01-9361,2.0,600000.0,3,2:56,Excavator,Fndn. L1,Texas,Mohammed,Kenza
+Paid,3,Nov,Direct Call,AD01-9361,5.0,1250000.0,2,2:56,Excavator,Fndn. L5,Texas,Salah,Dary
+Paid,8,May,Direct Call,AD01-9362,3.0,750000.0,3,3:00,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,8,Oct,Direct Call,AD01-9364,5.0,1250000.0,2,3:00,Excavator,Fndn. L5,Texas,Mohammed,Mohmed
+Paid,2,Dec,Direct Call,AD01-9364,4.0,750000.0,1,3:10,Excavator,KJI. L4,Texas,Mohammed,Rony
+Paid,12,Jan,Direct Call,AD01-9361,5.0,1250000.0,1,3:16,Excavator,Pre. L8,Texas,Mohammed,Mohmed
+Paid,8,Oct,Direct Call,AD01-9362,3.0,600000.0,3,3:30,Excavator,Pre. L3,Texas,Abdullah,Reham
+Paid,25,Aug,Direct Call,AD01-9364,3.0,750000.0,1,3:30,Excavator,KJI. L4,Texas,Ahmed,Hany
+Paid,29,Oct,Direct Call,AD01-9364,2.0,600000.0,1,4:00,Excavator,Pre. L4,Texas,Salah,Dina
+Paid,11,Feb,Direct Call,AD01-9362,2.0,600000.0,4,4:40,Excavator,KJI. L4,Texas,Ahmed,Khalil
+Paid,25,Dec,Direct Call,AD01-9361,2.0,600000.0,1,4:45,Excavator,Pre. L3,Texas,Abdullah,Reham
+Paid,23,Dec,Direct Call,AD01-9364,2.0,600000.0,1,4:45,Excavator,Pre. L4,Texas,Mohammed,Kisho
+Paid,30,Oct,Direct Call,AD01-9361,3.0,600000.0,1,5:12,Excavator,KJI. L4,Texas,Salah,Sahar
+Paid,23,Nov,Direct Call,AD01-9362,2.0,600000.0,2,6:15,Excavator,Fndn. L1,Texas,Mohammed,Habib
+Paid,18,Jun,Direct Call,AD01-9364,5.0,1250000.0,5,6:15,Excavator,Fndn. L6,Texas,Salah,John
+Paid,1,May,Direct Call,AD01-9362,5.0,1250000.0,1,6:18,Excavator,KJI. L4,Texas,Salah,Dina
+Paid,10,Oct,Direct Call,AD01-9361,5.0,1250000.0,3,6:20,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,24,Sep,Direct Call,AD01-9364,3.0,750000.0,5,6:30,Excavator,KJI. L4,Texas,Mohammed,Mohmed
+Paid,11,Sep,Direct Call,AD01-9361,5.0,1050000.0,1,6:30,Excavator,Fndn. L5,Texas,Abdullah,Hisham
+Paid,17,Dec,Direct Call,AD01-9362,3.0,550000.0,4,6:30,Excavator,Pre. L2,Texas,Salah,Sahar
+Paid,12,Nov,Direct Call,AD01-9363,4.0,750000.0,2,7:30,Excavator,KJI. L4,Texas,Salah,Sahar
+Paid,1,Apr,Direct Call,AD01-9363,2.0,600000.0,1,7:30,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,12,Sep,Direct Call,AD01-9362,3.0,550000.0,5,8:12,Excavator,Pre. L4,Texas,Ahmed,Hany
+Paid,12,Aug,Direct Call,AD01-9362,3.0,750000.0,1,8:20,Excavator,Fndn. L3,Texas,Mohammed,Kisho
+Paid,18,Nov,Direct Call,AD01-9361,2.0,600000.0,1,9:00,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,8,Oct,Direct Call,AD01-9365,3.0,750000.0,1,9:12,Excavator,Pre. L4,Texas,Salah,Dary
+Paid,13,Aug,Direct Call,AD01-9362,3.0,750000.0,1,10:10,Excavator,Pre. L2,Texas,Mohammed,Rony
+Paid,3,Oct,Direct Call,AD01-9363,3.0,600000.0,2,11:20,Excavator,Fndn. L1,Texas,Mohammed,Kisho
+Paid,22,Nov,Direct Call,AD01-9365,2.0,600000.0,3,11:20,Excavator,KJI. L4,Texas,Salah,John
+Paid,2,Oct,Direct Call,AD01-9361,2.0,500000.0,5,12:55,Excavator,KJI. L4,Texas,Salah,Dary
+Paid,6,Oct,Direct Call,AD01-9362,5.0,1000000.0,2,2:00,Excavator,KJI. L4,Texas,Ahmed,Dary
+Paid,10,May,Direct Call,AD01-9364,4.0,1000000.0,3,2:00,Excavator,Pre. L2,Texas,Abdullah,Reham
+Paid,26,Dec,Direct Call,AD01-9361,5.0,1250000.0,5,2:00,Excavator,Pre. L4,Texas,Abdullah,Reham
+Paid,30,Oct,Direct Call,AD01-9361,3.0,750000.0,1,2:00,Excavator,Pre. L2,Texas,Abdullah,Reham
+Paid,1,Oct,Direct Call,AD01-9362,2.0,500000.0,1,2:00,Excavator,Fndn. L1,Texas,Salah,Ahmed
+Paid,11,May,Direct Call,AD01-9361,5.0,1250000.0,4,2:00,Excavator,Fndn. L5,Texas,Mohammed,Mohmed
+Paid,11,Feb,Direct Call,AD01-9362,2.0,600000.0,1,2:00,Excavator,KJI. L4,Texas,Salah,Dary
+Paid,30,Sep,Direct Call,AD01-9362,4.0,1000000.0,4,2:00,Excavator,KJI. L4,Texas,Salah,Sahar
+Paid,27,Oct,Direct Call,AD01-9361,1.0,350000.0,1,2:00,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,24,Sep,Direct Call,AD01-9361,3.0,750000.0,2,2:12,Excavator,Fndn. L6,Texas,Mohammed,Kisho
+Paid,14,Sep,Direct Call,AD01-9364,3.0,550000.0,2,2:25,Excavator,Fndn. L5,Texas,Salah,Ahmed
+Paid,11,Jan,Direct Call,AD01-9362,5.0,1000000.0,1,2:30,Excavator,Fndn. L5,Texas,Abdullah,Reham
+Paid,21,Dec,Direct Call,AD01-9361,3.0,750000.0,3,2:56,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,30,Sep,Direct Call,AD01-9361,3.0,750000.0,5,3:12,Excavator,Fndn. L5,Texas,Mohammed,Mohmed
+Paid,31,Oct,Direct Call,AD01-9361,3.0,750000.0,2,3:17,Excavator,KJI. L4,Texas,Ahmed,Hany
+Paid,28,Oct,Direct Call,AD01-9362,2.0,600000.0,3,3:30,Excavator,Pre. L2,Texas,Abdullah,Hisham
+Paid,27,Nov,Direct Call,AD01-9362,3.0,550000.0,3,4:45,Excavator,Pre. L3,Texas,Abdullah,Adam
+Paid,12,Aug,Direct Call,AD01-9364,3.0,750000.0,4,6:15,Excavator,Pre. L2,Texas,Abdullah,Adam
+Paid,1,Apr,Direct Call,AD01-9365,2.0,600000.0,1,6:30,Excavator,Pre. L2,Texas,Ahmed,Khalil
+Paid,16,Feb,Direct Call,AD01-9361,3.0,550000.0,3,8:00,Excavator,Pre. L8,Texas,Salah,Sahar
+Paid,1,May,Direct Call,AD01-9361,2.0,600000.0,5,8:10,Excavator,Fndn. L3,Texas,Ahmed,Khalil
+Paid,12,Sep,Direct Call,AD01-9364,3.0,750000.0,4,8:10,Excavator,Pre. L8,Texas,Mohammed,Rony
+Paid,14,Nov,Direct Call,AD01-9362,5.0,1250000.0,1,8:40,Excavator,Fndn. L6,Texas,Mohammed,Rony
+Paid,28,Oct,Direct Call,AD01-9362,4.0,1000000.0,1,10:10,Excavator,KJI. L4,Texas,Salah,Dina
+Paid,30,Sep,Direct Call,AD01-9362,3.0,750000.0,5,12:55,Excavator,KJI. L4,Texas,Mohammed,Habib
+Paid,6,Oct,Direct Call,AD01-9363,2.0,600000.0,2,12:55,Excavator,Pre. L3,Texas,Mohammed,Kisho
+Paid,20,Oct,Direct Call,AD01-9361,5.0,1050000.0,2,12:55,Excavator,Pre. L3,Texas,Salah,Dary
+Paid,4,May,Youtube Channel,AD01-9364,3.0,750000.0,1,2:00,Excavator,Fndn. L3,Texas,Mohammed,Rony
+Paid,19,Nov,Youtube Channel,AD01-9362,2.0,600000.0,1,2:00,Excavator,Pre. L8,Texas,Mohammed,Rony
+Paid,30,Sep,Youtube Channel,AD01-9361,2.0,600000.0,4,2:00,Excavator,KJI. L4,Texas,Mohammed,Kisho
+Paid,22,Oct,Youtube Channel,AD01-9361,2.0,600000.0,2,2:00,Excavator,Pre. L3,Texas,Salah,Sahar
+Paid,28,Sep,Youtube Channel,AD01-9365,5.0,1050000.0,3,2:12,Excavator,Pre. L3,Texas,Mohammed,Habib
+Paid,24,Sep,Youtube Channel,AD01-9362,5.0,1250000.0,2,2:12,Excavator,KJI. L4,Texas,Ahmed,Khalil
+Paid,15,Sep,Youtube Channel,AD01-9364,2.0,500000.0,2,2:56,Excavator,Fndn. L5,Texas,Mohammed,Kisho
+Paid,24,Dec,Youtube Channel,AD01-9361,3.0,550000.0,4,5:12,Excavator,Pre. L3,Texas,Salah,Dary
+Paid,17,Aug,Youtube Channel,AD01-9362,2.0,600000.0,4,5:14,Excavator,Fndn. L5,Texas,Abdullah,Reham
+Paid,17,Dec,Youtube Channel,AD01-9363,3.0,600000.0,1,6:20,Excavator,Pre. L3,Texas,Salah,John
+Paid,22,Sep,Youtube Channel,AD01-9364,4.0,750000.0,2,7:10,Excavator,Fndn. L3,Texas,Abdullah,Reham
+Paid,22,Nov,Youtube Channel,AD01-9361,5.0,1250000.0,3,7:10,Excavator,Pre. L3,Texas,Mohammed,Mohmed
+Paid,12,Oct,Youtube Channel,AD01-9364,2.0,600000.0,2,7:30,Excavator,KJI. L4,Texas,Abdullah,Reham
+Paid,1,May,Youtube Channel,AD01-9362,3.0,750000.0,1,7:30,Excavator,Pre. L3,Texas,Salah,Dina
+Paid,30,Sep,Youtube Channel,AD01-9361,3.0,750000.0,4,8:40,Excavator,Pre. L3,Texas,Mohammed,Kisho
+Paid,30,Sep,Youtube Channel,AD01-9363,3.0,750000.0,2,9:00,Excavator,KJI. L4,Texas,Abdullah,Hisham
+Paid,23,Oct,Youtube Channel,AD01-9364,3.0,750000.0,1,12:55,Excavator,Fndn. L3,Texas,Salah,Ahmed
+Paid,3,Nov,Youtube Channel,AD01-9362,5.0,1250000.0,1,12:55,Excavator,Pre. L8,Texas,Mohammed,Mohmed
+Paid,28,Sep,Direct Call,AD01-9361,1.0,2950000.0,4,2:00,Tower Crane,Fndn. L3,Texas,Ahmed,Khalil
+Paid,10,May,Direct Call,AD01-9364,2.0,1900000.0,2,7:30,Tower Crane,Pre. L2,Texas,Mohammed,Mohmed
+Paid,10,Sep,Direct Call,AD01-9362,2.0,1900000.0,2,8:10,Tower Crane,Pre. L2,Texas,Salah,John
+Paid,20,Jul,Company Website,AD01-9362,1.0,95000.0,5,2:00,Truck,Fndn. L5,Texas,Ahmed,Hany
+Paid,5,Oct,Company Website,AD01-9362,1.0,95000.0,1,2:10,Truck,Fndn. L1,Texas,Salah,John
+Paid,20,Oct,Company Website,AD01-9362,2.0,190000.0,5,2:12,Truck,KJI. L4,Texas,Salah,Sahar
+Paid,4,Jul,Company Website,AD01-9361,1.0,95000.0,2,4:00,Truck,Pre. L2,Texas,Abdullah,Adam
+Paid,17,Oct,Company Website,AD01-9364,1.0,95000.0,2,5:14,Truck,Pre. L8,Texas,Mohammed,Kisho
+Paid,22,Nov,Company Website,AD01-9364,1.0,95000.0,1,8:40,Truck,Fndn. L5,Texas,Mohammed,Kisho
+Paid,17,Jan,Company Website,AD01-9362,2.0,190000.0,4,12:45,Truck,Fndn. L5,Texas,Mohammed,Rony
+Paid,26,Nov,Direct Call,AD01-9363,1.0,95000.0,2,2:00,Truck,Pre. L2,Texas,Salah,Sahar
+Paid,26,Nov,Direct Call,AD01-9363,1.0,95000.0,2,2:00,Truck,Pre. L2,Texas,Salah,Reham
+Paid,11,Mar,Direct Call,AD01-9362,2.0,190000.0,2,2:00,Truck,Pre. L3,Texas,Salah,Dary
+Paid,21,Oct,Direct Call,AD01-9362,1.0,95000.0,1,2:00,Truck,Fndn. L1,Texas,Salah,John
+Paid,1,May,Facebook Page,AD01-9363,1.0,95000.0,2,2:00,Truck,Fndn. L1,Texas,Abdullah,Hisham
+Paid,26,Oct,Facebook Page,AD01-9362,2.0,190000.0,3,2:00,Truck,Fndn. L1,Texas,Salah,Dary
+Paid,29,Oct,Facebook Page,AD01-9362,1.0,95000.0,4,2:12,Truck,Fndn. L3,Texas,Salah,Dary
+Paid,30,Dec,Facebook Page,AD01-9362,2.0,190000.0,2,2:56,Truck,Pre. L4,Texas,Salah,John
+Paid,31,Dec,Facebook Page,AD01-9365,2.0,190000.0,4,3:00,Truck,Pre. L3,Texas,Mohammed,Kenza
+Paid,12,Oct,Facebook Page,AD01-9364,2.0,190000.0,4,3:10,Truck,Fndn. L5,Texas,Mohammed,Kenza
+Paid,3,Aug,Facebook Page,AD01-9362,1.0,95000.0,2,3:17,Truck,Fndn. L3,Texas,Ahmed,Khalil
+Paid,27,Sep,Facebook Page,AD01-9361,2.0,190000.0,3,6:18,Truck,Pre. L3,Texas,Mohammed,Rony
+Paid,27,Oct,Facebook Page,AD01-9363,1.0,95000.0,1,8:10,Truck,KJI. L4,Texas,Salah,Sahar
+Paid,11,Jan,Facebook Page,AD01-9361,2.0,190000.0,1,9:15,Truck,Fndn. L5,Texas,Ahmed,Hany
+Paid,3,Nov,Facebook Page,AD01-9361,2.0,190000.0,2,11:20,Truck,Pre. L4,Texas,Mohammed,Rony
+Paid,8,Nov,Google Ad,AD01-9364,2.0,190000.0,1,2:00,Truck,Fndn. L6,Texas,Salah,Jood
+Paid,3,May,Google Ad,AD01-9362,2.0,190000.0,1,2:00,Truck,KJI. L4,Texas,Abdullah,Hisham
+Paid,1,Apr,Direct Call,AD01-9364,1.0,95000.0,1,2:00,Truck,Fndn. L1,Texas,Salah,Ahmed
+Paid,27,Oct,Direct Call,AD01-9365,2.0,190000.0,1,2:00,Truck,Fndn. L3,Texas,Ahmed,Hany
+Paid,5,Nov,Direct Call,AD01-9362,1.0,95000.0,2,3:30,Truck,Pre. L8,Texas,Mohammed,Kisho
+Paid,13,Oct,Direct Call,AD01-9361,1.0,95000.0,4,4:48,Truck,Pre. L3,Texas,Mohammed,Rony
+Paid,23,Oct,Direct Call,AD01-9364,1.0,95000.0,2,5:12,Truck,Pre. L3,Texas,Salah,Sahar
+Paid,11,Feb,Direct Call,AD01-9361,1.0,95000.0,3,7:14,Truck,Fndn. L1,Texas,Mohammed,Kisho
+Paid,14,Oct,Direct Call,AD01-9361,1.0,95000.0,2,11:20,Truck,Fndn. L5,Texas,Ahmed,Khalil
+Paid,13,Oct,Direct Call,AD01-9362,2.0,190000.0,1,12:55,Truck,Fndn. L6,Texas,Ahmed,Hany
+Paid,15,Nov,Direct Call,AD01-9362,2.0,190000.0,2,2:00,Truck,Fndn. L1,Texas,Mohammed,Kisho
+Paid,3,Oct,Direct Call,AD01-9362,2.0,190000.0,3,2:00,Truck,Fndn. L5,Texas,Abdullah,Hisham
+Paid,11,Feb,Direct Call,AD01-9362,2.0,190000.0,5,2:00,Truck,Fndn. L6,Texas,Mohammed,Kisho
+Paid,4,May,Direct Call,AD01-9362,1.0,95000.0,1,3:10,Truck,Pre. L3,Texas,Abdullah,Adam
+Paid,28,Oct,Direct Call,AD01-9363,2.0,190000.0,2,3:16,Truck,Fndn. L5,Texas,Salah,Dina
+Paid,9,Nov,Direct Call,AD01-9361,1.0,95000.0,5,4:40,Truck,Fndn. L5,Texas,Abdullah,Reham
+Paid,7,Jul,Direct Call,AD01-9362,1.0,95000.0,6,6:18,Truck,Fndn. L5,Texas,Salah,Jood
+Paid,11,Feb,Youtube Channel,AD01-9364,2.0,190000.0,3,2:00,Truck,Fndn. L1,Texas,Salah,Dary
+Paid,4,Oct,Company Website,AD01-9361,4.0,100000.0,2,12:55,Truck,Fndn. L5,Texas,Abdullah,Reham
+Paid,16,Aug,Company Website,AD01-9361,4.0,55000.0,3,3:00,Truck,Fndn. L5,Texas,Salah,Dary
+Paid,4,May,Direct Call,AD01-9362,1.0,9500.0,1,3:10,Truck,Pre. L3,Texas,Abdullah,Adam
+Paid,28,Oct,Direct Call,AD01-9363,2.0,19000.0,2,3:16,Truck,Fndn. L5,Texas,Salah,Dina
+Paid,9,Nov,Direct Call,AD01-9361,1.0,9500.0,5,4:40,Truck,Fndn. L5,Texas,Abdullah,Reham
+Paid,7,Jul,Direct Call,AD01-9362,1.0,9500.0,6,6:18,Truck,Fndn. L5,Texas,Salah,Jood
+Paid,11,Feb,Youtube Channel,AD01-9364,2.0,19000.0,3,2:00,Truck,Fndn. L1,Texas,Salah,Dary
+Paid,11,Nov,Direct Call,AD01-9362,2.0,60000.0,1,12:55,Truck,Fndn. L5,Texas,Salah,Jood
+Paid,13,Feb,Direct Call,AD01-9364,1.0,35000.0,6,12:55,Truck,Pre. L2,Texas,Ahmed,Khalil
+Paid,11,Jan,Google Ad,AD01-9364,4.0,100000.0,2,2:00,Truck,Fndn. L3,Texas,Ahmed,Hany
+Paid,1,Oct,Google Ad,AD01-9362,4.0,55000.0,2,2:18,Truck,Fndn. L3,Texas,Salah,John
+Paid,28,Sep,Google Ad,AD01-9363,4.0,55000.0,2,3:12,Truck,Pre. L3,Texas,Mohammed,Kisho
+Paid,1,May,Google Ad,AD01-9361,4.0,100000.0,4,4:48,Truck,Pre. L4,Texas,Salah,John
+Paid,18,Nov,Google Ad,AD01-9364,4.0,55000.0,1,5:15,Truck,Fndn. L1,Texas,Mohammed,Mohmed
+Paid,2,Oct,Direct Call,AD01-9361,2.0,50000.0,5,12:55,Truck,KJI. L4,Texas,Salah,Dary
+Paid,26,Aug,Direct Call,AD01-9362,4.0,100000.0,3,2:00,Truck,KJI. L4,Texas,Ahmed,Khalil
+Paid,22,Nov,Direct Call,AD01-9361,4.0,100000.0,4,2:00,Truck,Pre. L3,Texas,Mohammed,Mohmed
+Paid,1,May,Direct Call,AD01-9364,4.0,100000.0,4,2:00,Truck,Fndn. L1,Texas,Salah,Dina
+Paid,26,Oct,Direct Call,AD01-9363,4.0,55000.0,1,2:00,Truck,Pre. L8,Texas,Ahmed,Hany
+Paid,5,Oct,Direct Call,AD01-9364,4.0,55000.0,4,2:30,Truck,KJI. L4,Texas,Mohammed,Kisho
+Paid,17,Jun,Direct Call,AD01-9362,4.0,100000.0,1,2:56,Truck,Pre. L8,Texas,Salah,Ahmed
+Paid,17,Dec,Direct Call,AD01-9361,4.0,55000.0,1,3:12,Truck,Pre. L4,Texas,Mohammed,Kisho
+Paid,30,Sep,Direct Call,AD01-9362,3.0,75000.0,5,12:55,Truck,KJI. L4,Texas,Mohammed,Habib
+Paid,6,Oct,Direct Call,AD01-9363,2.0,60000.0,2,12:55,Truck,Pre. L3,Texas,Mohammed,Kisho
+Paid,20,Oct,Direct Call,AD01-9361,5.0,105000.0,2,12:55,Truck,Pre. L3,Texas,Salah,Dary
+Paid,28,Aug,Direct Call,AD01-9362,4.0,55000.0,2,2:00,Truck,KJI. L4,Texas,Abdullah,Reham
+Paid,2,Nov,Direct Call,AD01-9361,4.0,100000.0,1,2:00,Truck,Pre. L8,Texas,Mohammed,Mohmed
+Paid,15,Jan,Direct Call,AD01-9362,4.0,100000.0,3,2:25,Truck,Fndn. L3,Texas,Salah,Sahar
+Paid,11,Feb,Direct Call,AD01-9361,4.0,100000.0,2,3:30,Truck,Fndn. L5,Texas,Mohammed,Kenza
+Paid,23,Oct,Youtube Channel,AD01-9364,3.0,75000.0,1,12:55,Truck,Fndn. L3,Texas,Salah,Ahmed
+Paid,3,Nov,Youtube Channel,AD01-9362,5.0,125000.0,1,12:55,Truck,Pre. L8,Texas,Mohammed,Mohmed
+Paid,12,Jun,Youtube Channel,AD01-9362,4.0,55000.0,1,6:30,Truck,Pre. L8,Texas,Mohammed,Kisho
+Not Paid,3,Jun,Company Website,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,13,Aug,Company Website,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Jood
+Not Paid,17,Mar,Company Website,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,11,Dec,Company Website,AD01-9361,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,16,Sep,Company Website,AD01-9363,0.0,0.0,5,2:12,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,25,Nov,Company Website,AD01-9364,0.0,0.0,3,2:30,Not Enrolled,Not Enrolled,Texas,Salah,Dary
+Not Paid,10,Dec,Company Website,AD01-9362,0.0,0.0,1,3:17,Not Enrolled,Not Enrolled,Texas,Abdullah,Adam
+Not Paid,29,May,Company Website,AD01-9364,0.0,0.0,2,5:15,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,7,Jul,Company Website,AD01-9364,0.0,0.0,3,7:30,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,17,Nov,Company Website,AD01-9361,0.0,0.0,1,9:12,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,30,Dec,Company Website,AD01-9362,0.0,0.0,4,9:15,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,1,Dec,Company Website,AD01-9364,0.0,0.0,2,12:45,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,5,Oct,Facebook Page,AD01-9362,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,19,Nov,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,11,Mar,Direct Call,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,28,Oct,Direct Call,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,29,Nov,Direct Call,AD01-9364,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,30,Dec,Direct Call,AD01-9364,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,10,Dec,Direct Call,AD01-9362,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,5,Oct,Direct Call,AD01-9362,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,20,Nov,Direct Call,AD01-9364,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,8,Oct,Direct Call,AD01-9361,0.0,0.0,5,2:00,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,5,Apr,Direct Call,AD01-9364,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,1,Oct,Direct Call,AD01-9361,0.0,0.0,4,2:30,Not Enrolled,Not Enrolled,Texas,Salah,Dary
+Not Paid,10,Dec,Direct Call,AD01-9361,0.0,0.0,1,2:30,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,12,Sep,Direct Call,AD01-9362,0.0,0.0,1,3:30,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,19,Oct,Direct Call,AD01-9362,0.0,0.0,4,3:40,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,25,Oct,Direct Call,AD01-9362,0.0,0.0,5,4:00,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,10,Dec,Facebook Page,AD01-9364,0.0,0.0,3,4:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,5,Oct,Direct Call,AD01-9364,0.0,0.0,5,5:15,Not Enrolled,Not Enrolled,Texas,Salah,Sahar
+Not Paid,15,Sep,Direct Call,AD01-9362,0.0,0.0,1,6:15,Not Enrolled,Not Enrolled,Texas,Salah,Dary
+Not Paid,28,Nov,Direct Call,AD01-9361,0.0,0.0,4,6:20,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,30,Sep,Direct Call,AD01-9365,0.0,0.0,2,12:55,Not Enrolled,Not Enrolled,Texas,Salah,Jood
+Not Paid,7,Oct,Google Ad,AD01-9361,0.0,0.0,6,2:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,29,Dec,Google Ad,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,11,Nov,Google Ad,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Abdullah,Adam
+Not Paid,21,Dec,Google Ad,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,25,Oct,Google Ad,AD01-9361,0.0,0.0,1,5:14,Not Enrolled,Not Enrolled,Texas,Salah,Sahar
+Not Paid,10,Dec,Google Ad,AD01-9362,0.0,0.0,5,6:20,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,13,Mar,Google Ad,AD01-9362,0.0,0.0,2,7:14,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,12,Aug,Google Ad,AD01-9361,0.0,0.0,2,7:30,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,12,Mar,Google Ad,AD01-9361,0.0,0.0,3,8:12,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,27,Dec,Google Ad,AD01-9362,0.0,0.0,1,9:00,Not Enrolled,Not Enrolled,Texas,Abdullah,Adam
+Not Paid,1,May,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,23,Nov,Direct Call,AD01-9361,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,20,Oct,Direct Call,AD01-9362,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,13,Jun,Direct Call,AD01-9365,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,29,Nov,Direct Call,AD01-9362,0.0,0.0,3,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,29,Sep,Direct Call,AD01-9362,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,5,May,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,8,Dec,Direct Call,AD01-9364,0.0,0.0,6,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Habib
+Not Paid,6,Aug,Direct Call,AD01-9364,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,6,Jan,Direct Call,AD01-9364,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Dary
+Not Paid,10,Dec,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,22,Dec,Direct Call,AD01-9363,0.0,0.0,2,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Habib
+Not Paid,29,Oct,Direct Call,AD01-9364,0.0,0.0,4,2:12,Not Enrolled,Not Enrolled,Texas,Salah,Sahar
+Not Paid,8,Jun,Direct Call,AD01-9363,0.0,0.0,2,2:12,Not Enrolled,Not Enrolled,Texas,Salah,John
+Not Paid,2,Oct,Direct Call,AD01-9361,0.0,0.0,2,2:25,Not Enrolled,Not Enrolled,Texas,Mohammed,Habib
+Not Paid,14,Nov,Direct Call,AD01-9362,0.0,0.0,2,2:25,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,12,May,Direct Call,AD01-9361,0.0,0.0,2,2:25,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,14,Jun,Direct Call,AD01-9362,0.0,0.0,1,2:25,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,11,May,Direct Call,AD01-9361,0.0,0.0,2,2:30,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,20,Sep,Direct Call,AD01-9361,0.0,0.0,2,2:30,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,28,Sep,Direct Call,AD01-9364,0.0,0.0,3,3:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,9,Jun,Direct Call,AD01-9364,0.0,0.0,3,3:16,Not Enrolled,Not Enrolled,Texas,Salah,Ahmed
+Not Paid,11,May,Direct Call,AD01-9362,0.0,0.0,5,4:40,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,21,Dec,Direct Call,AD01-9361,0.0,0.0,2,6:30,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Not Paid,16,Nov,Direct Call,AD01-9364,0.0,0.0,1,8:00,Not Enrolled,Not Enrolled,Texas,Salah,Jood
+Not Paid,25,Nov,Direct Call,AD01-9362,0.0,0.0,1,8:12,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,11,Mar,Direct Call,AD01-9364,0.0,0.0,1,9:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,27,Sep,Direct Call,AD01-9364,0.0,0.0,1,9:36,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,3,Oct,Direct Call,AD01-9362,0.0,0.0,1,9:36,Not Enrolled,Not Enrolled,Texas,Salah,Dina
+Not Paid,11,Nov,Direct Call,AD01-9364,0.0,0.0,3,9:36,Not Enrolled,Not Enrolled,Texas,Salah,Sahar
+Not Paid,9,Dec,Direct Call,AD01-9361,0.0,0.0,1,12:55,Not Enrolled,Not Enrolled,Texas,Mohammed,Mohmed
+Not Paid,15,Sep,Direct Call,AD01-9361,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Texas,Salah,Ahmed
+Not Paid,23,Nov,Direct Call,AD01-9361,0.0,0.0,1,2:00,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,3,Dec,Direct Call,AD01-9361,0.0,0.0,1,2:30,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,11,Nov,Direct Call,AD01-9361,0.0,0.0,2,2:56,Not Enrolled,Not Enrolled,Texas,Mohammed,Rony
+Not Paid,11,Jan,Direct Call,AD01-9361,0.0,0.0,4,4:45,Not Enrolled,Not Enrolled,Texas,Abdullah,Hisham
+Not Paid,28,Sep,Direct Call,AD01-9362,0.0,0.0,1,7:10,Not Enrolled,Not Enrolled,Texas,Salah,Ahmed
+Not Paid,5,Oct,Direct Call,AD01-9362,0.0,0.0,2,7:10,Not Enrolled,Not Enrolled,Texas,Salah,Dary
+Not Paid,8,Oct,Direct Call,AD01-9362,0.0,0.0,5,8:20,Not Enrolled,Not Enrolled,Texas,Abdullah,Reham
+Not Paid,10,Jul,Direct Call,AD01-9361,0.0,0.0,3,8:40,Not Enrolled,Not Enrolled,Texas,Ahmed,Khalil
+Not Paid,30,Dec,Direct Call,AD01-9364,0.0,0.0,3,9:00,Not Enrolled,Not Enrolled,Texas,Ahmed,Hany
+Not Paid,25,Oct,Direct Call,AD01-9361,0.0,0.0,5,12:45,Not Enrolled,Not Enrolled,Texas,Salah,Jood
+Not Paid,29,Oct,Youtube Channel,AD01-9362,0.0,0.0,2,2:12,Not Enrolled,Not Enrolled,Texas,Salah,Ahmed
+Not Paid,11,Nov,Youtube Channel,AD01-9362,0.0,0.0,3,3:16,Not Enrolled,Not Enrolled,Texas,Mohammed,Kisho
+Paid,26,Aug,Direct Call,AD01-9362,4.0,100000.0,3,2:00,Crane,KJI. L4,Washington,Ahmed,Khalil
+Paid,1,Apr,Direct Call,AD01-9361,4.0,60000.0,3,2:00,Crane,Fndn. L1,Washington,Ahmed,Hany
+Paid,12,Jun,Youtube Channel,AD01-9362,4.0,125000.0,1,6:30,Crane,Pre. L8,Washington,Mohammed,Kisho
+Paid,27,Oct,Company Website,AD01-9361,4.0,750000.0,1,2:00,Excavator,KJI. L4,Washington,Abdullah,Reham
+Paid,7,May,Company Website,AD01-9362,3.0,750000.0,1,2:12,Excavator,Pre. L2,Washington,Salah,Sahar
+Paid,19,Aug,Company Website,AD01-9363,1.0,350000.0,5,4:45,Excavator,Pre. L8,Washington,Salah,Dary
+Paid,18,Feb,Company Website,AD01-9362,5.0,1000000.0,1,5:12,Excavator,Pre. L4,Washington,Abdullah,Adam
+Paid,1,Oct,Direct Call,AD01-9362,3.0,750000.0,3,2:00,Excavator,Fndn. L1,Washington,Mohammed,Mohmed
+Paid,27,Sep,Direct Call,AD01-9364,3.0,600000.0,3,2:00,Excavator,Fndn. L5,Washington,Salah,Dina
+Paid,29,Sep,Direct Call,AD01-9361,1.0,350000.0,3,2:00,Excavator,Fndn. L1,Washington,Ahmed,Hany
+Paid,1,Feb,Direct Call,AD01-9361,1.0,350000.0,2,2:00,Excavator,Pre. L8,Washington,Mohammed,Rony
+Paid,3,Nov,Direct Call,AD01-9361,2.0,600000.0,4,2:00,Excavator,KJI. L4,Washington,Ahmed,Hany
+Paid,1,Dec,Facebook Page,AD01-9362,4.0,1000000.0,4,2:00,Excavator,Pre. L8,Washington,Mohammed,Mohmed
+Paid,1,Apr,Facebook Page,AD01-9362,4.0,1000000.0,1,2:00,Excavator,Fndn. L3,Washington,Mohammed,Habib
+Paid,1,May,Direct Call,AD01-9361,3.0,750000.0,2,2:12,Excavator,KJI. L4,Washington,Mohammed,Mohmed
+Paid,30,Sep,Facebook Page,AD01-9364,1.0,350000.0,1,7:14,Excavator,Fndn. L3,Washington,Abdullah,Reham
+Paid,17,Dec,Facebook Page,AD01-9362,5.0,1050000.0,6,8:40,Excavator,Fndn. L5,Washington,Ahmed,Khalil
+Paid,27,Sep,Facebook Page,AD01-9361,3.0,750000.0,4,9:00,Excavator,Pre. L3,Washington,Mohammed,Rony
+Paid,27,Nov,Google Ad,AD01-9364,5.0,1000000.0,1,2:00,Excavator,KJI. L4,Washington,Salah,John
+Paid,17,Jan,Google Ad,AD01-9365,3.0,750000.0,1,3:12,Excavator,Pre. L8,Washington,Ahmed,Hany
+Paid,31,May,Google Ad,AD01-9362,2.0,600000.0,4,9:12,Excavator,Pre. L3,Washington,Mohammed,Kisho
+Paid,28,Sep,Direct Call,AD01-9362,3.0,750000.0,1,2:00,Excavator,Fndn. L5,Washington,Mohammed,Rony
+Paid,28,Sep,Direct Call,AD01-9362,5.0,1250000.0,2,2:00,Excavator,Fndn. L3,Washington,Mohammed,Kisho
+Paid,22,Dec,Direct Call,AD01-9362,2.0,600000.0,4,2:00,Excavator,Pre. L4,Washington,Salah,Dary
+Paid,24,Dec,Direct Call,AD01-9362,1.0,350000.0,2,2:00,Excavator,Pre. L3,Washington,Abdullah,Hisham
+Paid,11,Sep,Direct Call,AD01-9364,2.0,600000.0,3,3:12,Excavator,KJI. L4,Washington,Mohammed,Kenza
+Paid,16,Dec,Direct Call,AD01-9364,5.0,1000000.0,4,8:40,Excavator,Pre. L3,Washington,Mohammed,Mohmed
+Paid,25,Nov,Direct Call,AD01-9362,3.0,750000.0,3,9:12,Excavator,KJI. L4,Washington,Salah,Sahar
+Paid,6,Oct,Direct Call,AD01-9362,5.0,1000000.0,2,2:00,Excavator,KJI. L4,Washington,Ahmed,Khalil
+Paid,26,Nov,Direct Call,AD01-9361,3.0,600000.0,1,2:00,Excavator,KJI. L4,Washington,Abdullah,Hisham
+Paid,20,Nov,Direct Call,AD01-9362,3.0,550000.0,2,7:14,Excavator,Fndn. L1,Washington,Mohammed,Kisho
+Paid,30,Sep,Youtube Channel,AD01-9361,2.0,600000.0,4,2:00,Excavator,Fndn. L5,Washington,Salah,Dary
+Paid,31,Aug,Company Website,AD01-9361,1.0,95000.0,2,2:12,Truck,KJI. L4,Washington,Mohammed,Mohmed
+Paid,30,Aug,Company Website,AD01-9364,2.0,190000.0,2,8:40,Truck,Pre. L3,Washington,Mohammed,Rony
+Paid,6,Jul,Google Ad,AD01-9362,2.0,190000.0,1,2:12,Truck,Fndn. L5,Washington,Salah,Dina
+Paid,11,Dec,Direct Call,AD01-9361,1.0,95000.0,1,4:45,Truck,Fndn. L5,Washington,Salah,Ahmed
+Paid,11,Dec,Direct Call,AD01-9361,1.0,9500.0,1,4:45,Truck,Fndn. L5,Washington,Salah,Ahmed
+Paid,26,Aug,Direct Call,AD01-9362,4.0,100000.0,3,2:00,Truck,KJI. L4,Washington,Ahmed,Khalil
+Paid,1,Apr,Direct Call,AD01-9361,4.0,100000.0,3,2:00,Truck,Fndn. L1,Washington,Ahmed,Hany
+Not Paid,13,Apr,Company Website,AD01-9362,0.0,0.0,4,3:10,Not Enrolled,Not Enrolled,Washington,Salah,Ahmed
+Not Paid,27,Oct,Company Website,AD01-9362,0.0,0.0,2,3:10,Not Enrolled,Not Enrolled,Washington,Salah,Dina
+Not Paid,16,Mar,Company Website,AD01-9364,0.0,0.0,5,3:12,Not Enrolled,Not Enrolled,Washington,Salah,Dary
+Not Paid,18,Nov,Direct Call,AD01-9362,0.0,0.0,5,3:10,Not Enrolled,Not Enrolled,Washington,Salah,Dina
+Not Paid,19,Dec,Facebook Page,AD01-9362,0.0,0.0,2,4:40,Not Enrolled,Not Enrolled,Washington,Ahmed,Hany
+Not Paid,20,Oct,Google Ad,AD01-9362,0.0,0.0,1,3:10,Not Enrolled,Not Enrolled,Washington,Ahmed,Hany
+Not Paid,12,Mar,Direct Call,AD01-9365,0.0,0.0,4,2:18,Not Enrolled,Not Enrolled,Washington,Mohammed,Mohmed
+Not Paid,1,Oct,Direct Call,AD01-9362,0.0,0.0,1,4:40,Not Enrolled,Not Enrolled,Washington,Mohammed,Mohmed
+Not Paid,11,May,Direct Call,AD01-9362,0.0,0.0,5,4:40,Not Enrolled,Not Enrolled,Washington,Ahmed,Hany
+Not Paid,6,Sep,Direct Call,AD01-9361,0.0,0.0,1,4:48,Not Enrolled,Not Enrolled,Washington,Mohammed,Kenza
+Not Paid,19,Mar,Direct Call,AD01-9361,0.0,0.0,3,6:30,Not Enrolled,Not Enrolled,Washington,Ahmed,Khalil
+Not Paid,3,Jul,Direct Call,AD01-9361,0.0,0.0,1,6:30,Not Enrolled,Not Enrolled,Washington,Mohammed,Rony
+Not Paid,5,Oct,Direct Call,AD01-9364,0.0,0.0,1,6:30,Not Enrolled,Not Enrolled,Washington,Salah,Dina
+Not Paid,5,Jan,Direct Call,AD01-9363,0.0,0.0,4,8:40,Not Enrolled,Not Enrolled,Washington,Mohammed,Kisho
+Not Paid,14,Mar,Direct Call,AD01-9362,0.0,0.0,4,2:12,Not Enrolled,Not Enrolled,Washington,Mohammed,Mohmed
+Not Paid,9,Oct,Direct Call,AD01-9361,0.0,0.0,2,2:12,Not Enrolled,Not Enrolled,Washington,Salah,Dary
+Not Paid,15,Mar,Direct Call,AD01-9364,0.0,0.0,2,4:40,Not Enrolled,Not Enrolled,Washington,Mohammed,Kisho
+Not Paid,23,Sep,Direct Call,AD01-9361,0.0,0.0,3,6:30,Not Enrolled,Not Enrolled,Washington,Salah,Sahar
+Not Paid,10,Jul,Direct Call,AD01-9361,0.0,0.0,3,8:40,Not Enrolled,Not Enrolled,Washington,Ahmed,Khalil
+Not Paid,12,Aug,Direct Call,AD01-9363,0.0,0.0,1,8:40,Not Enrolled,Not Enrolled,Washington,Salah,Ahmed
+Not Paid,11,Nov,Youtube Channel,AD01-9362,0.0,0.0,4,2:00,Not Enrolled,Not Enrolled,Washington,Mohammed,Kisho
+Not Paid,21,Feb,Youtube Channel,AD01-9362,0.0,0.0,2,3:12,Not Enrolled,Not Enrolled,Washington,Salah,Dary
